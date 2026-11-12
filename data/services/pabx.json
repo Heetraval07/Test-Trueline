@@ -1,0 +1,116 @@
+{
+ "slug": "pabx",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "PABX & Business Telephony Solutions",
+   "subtitle": "Clear Calls. Connected Teams. Reliable Communication.",
+   "paragraphs": [
+    "Modern business runs on communication. True Line designs and installs PABX and IP telephony systems that keep your teams connected, your customers reached, and your operations running smoothly — from a few users to enterprise scale."
+   ],
+   "cta": {
+    "label": "Book a Free Telephony Consultation",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/close-up-person-working-call-center_23-2149288224.avif"
+  },
+  {
+   "type": "intro",
+   "title": "Business Phone Systems, Done Right",
+   "paragraphs": [
+    "Whether you need a simple multi-line phone system or a feature-rich IP PABX with call recording, IVR, and remote extensions, the right telephony solution can transform how your team communicates — internally and with customers.",
+    "True Line delivers PABX and IP telephony solutions tailored to your business size, branch structure, and call patterns. From traditional PABX to modern IP-based systems and cloud-ready hybrid setups, we design, install, and maintain telephony solutions that deliver crystal-clear calls and rock-solid reliability."
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What We Offer",
+   "title": "Our PABX Solutions",
+   "items": [
+    {
+     "title": "IP PABX Systems",
+     "text": "Modern IP-based phone systems with rich features and easy scalability."
+    },
+    {
+     "title": "Traditional PABX",
+     "text": "Reliable analog and digital PABX systems for businesses with established infrastructure."
+    },
+    {
+     "title": "Hybrid PABX",
+     "text": "Combine analog, digital, and IP extensions in a single, flexible platform."
+    },
+    {
+     "title": "VoIP & SIP Trunking",
+     "text": "Cut call costs with internet-based voice connectivity and SIP trunking."
+    },
+    {
+     "title": "IVR & Auto Attendant",
+     "text": "Professional call routing with automated menus and personalized greetings."
+    },
+    {
+     "title": "Call Recording & Reporting",
+     "text": "Record, store, and analyze calls for quality, training, and compliance."
+    },
+    {
+     "title": "Remote Extensions",
+     "text": "Take your office number anywhere with softphones and mobile apps."
+    },
+    {
+     "title": "Integration with CRM & Helpdesk",
+     "text": "Connect telephony with your CRM, helpdesk, and business applications."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why True Line for PABX",
+   "bg": "new",
+   "items": [
+    {
+     "image": "/images/team_9539662.png",
+     "title": "Trusted Brand Partners",
+     "text": "Yeastar, Grandstream, Panasonic, Avaya, Cisco, and 3CX."
+    },
+    {
+     "image": "/images/video-editing_16947276.png",
+     "title": "Tailored System Design",
+     "text": "Telephony designed around your users, branches, and call flow."
+    },
+    {
+     "image": "/images/download_8292031.png",
+     "title": "Smooth Installation",
+     "text": "Professional setup with minimal disruption to your business."
+    },
+    {
+     "image": "/images/17787597.png",
+     "title": "End-User Training",
+     "text": "Your team gets up to speed quickly with hands-on training."
+    },
+    {
+     "image": "/images/message_6327768.png",
+     "title": "Reliable Support",
+     "text": "Ongoing maintenance and rapid issue resolution."
+    },
+    {
+     "image": "/images/17211821.png",
+     "title": "Future-Ready",
+     "text": "Solutions that scale and integrate with cloud and unified communications."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/confident-call-center-operator-talking-with-client-1-scaled.jpg",
+   "title": "Upgrade How Your Business Communicates.",
+   "text": "Get a modern PABX system designed for clarity, reliability, and growth. Talk to True Line today.",
+   "buttons": [
+    {
+     "label": "Request a Free Telephony Demo",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

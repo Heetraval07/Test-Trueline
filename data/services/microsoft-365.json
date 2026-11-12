@@ -1,0 +1,117 @@
+{
+ "slug": "microsoft-365",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Microsoft 365 Solutions",
+   "subtitle": "The Productivity Platform That Powers Modern Business.",
+   "paragraphs": [
+    "Empower your team with secure, connected, and collaborative workplace tools. True Line helps businesses deploy, manage, and get the most out of Microsoft 365 — from email and Teams to SharePoint, OneDrive, and beyond."
+   ],
+   "cta": {
+    "label": "Talk to a Microsoft 365 Expert",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/Backup-Microsoft-365.webp"
+  },
+  {
+   "type": "intro",
+   "title": "Microsoft 365, Done Right",
+   "paragraphs": [
+    "Microsoft 365 is more than just email and Office apps — it's a complete productivity, collaboration, and security platform for the modern workplace. But getting real value out of it requires proper setup, secure configuration, and ongoing administration.",
+    "Microsoft 365 is more than just email and Office apps — it's a complete productivity, collaboration, and security platform for the modern workplace. But getting real value out of it requires proper setup, secure configuration, and ongoing administration."
+   ]
+  },
+  {
+   "type": "cards",
+   "title": "Our Microsoft 365 Services",
+   "items": [
+    {
+     "icon": "fas fa-id-card",
+     "title": "Licensing & Subscriptions",
+     "text": "Right-sized Microsoft 365 plans with the licenses and add-ons your business actually needs."
+    },
+    {
+     "icon": "fas fa-envelope-open-text",
+     "title": "Email Migration",
+     "text": "Smooth migration from Gmail, Zoho, on-premise Exchange, or other platforms to Microsoft 365."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "Tenant Setup & Configuration",
+     "text": "Domain setup, mailbox provisioning, and best-practice configuration of your Microsoft 365 tenant."
+    },
+    {
+     "icon": "fas fa-users",
+     "title": "Microsoft Teams Deployment",
+     "text": "Setup, governance, and adoption support for Teams as your collaboration and meeting hub."
+    },
+    {
+     "icon": "fas fa-folder-open",
+     "title": "SharePoint & OneDrive",
+     "text": "Document management, intranet portals, and secure file sharing across your organization."
+    },
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "Email Security & Compliance",
+     "text": "Anti-phishing, anti-spam, DLP, and advanced threat protection to keep your email safe."
+    },
+    {
+     "icon": "fas fa-database",
+     "title": "Backup for Microsoft 365",
+     "text": "Third-party backup solutions to protect emails, files, and Teams data beyond Microsoft's defaults."
+    },
+    {
+     "icon": "fas fa-headset",
+     "title": "Managed Microsoft 365",
+     "text": "Ongoing administration, user management, and support — your fully managed M365 environment."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why True Line for Microsoft 365",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Microsoft Partner Expertise",
+     "text": "Hands-on experience deploying Microsoft 365 across diverse industries."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Smooth Migrations",
+     "text": "Zero-data-loss migrations with minimal disruption to your business."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Security & Compliance Focus",
+     "text": "Every deployment hardened with Microsoft's recommended security baselines."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "End-User Adoption Support",
+     "text": "Training and onboarding to help your team actually use what you pay for."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Single Point of Support",
+     "text": "Licensing, deployment, security, and support from one trusted partner."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/hands-with-application-icons-1-scaled.jpg",
+   "title": "Get the Most From Microsoft 365.",
+   "text": "Whether you're new to Microsoft 365, migrating from another platform, or need help managing what you already have — True Line is ready to help.",
+   "buttons": [
+    {
+     "label": "Book a Free Consultation",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

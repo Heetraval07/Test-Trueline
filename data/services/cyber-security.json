@@ -1,0 +1,166 @@
+{
+ "slug": "cyber-security",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Cyber Security Solutions",
+   "subtitle": "Defend Your Business. Protect Your Future.",
+   "paragraphs": [
+    "Cyber threats evolve every day — your defenses should too. True Line delivers end-to-end cyber security solutions that protect your business, data, and people from modern digital threats — backed by 24/7 monitoring and expert response."
+   ],
+   "cta": {
+    "label": "Book a Free Security Assessment",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/cyber-security-concept-digital-art_23-2151637760.jpg"
+  },
+  {
+   "type": "intro",
+   "title": "Book a Free Security Assessment",
+   "paragraphs": [
+    "Cyber attacks are no longer a question of if — they're a question of when. From ransomware and phishing to insider threats and zero-day exploits, today's businesses face a constantly shifting threat landscape that traditional defenses simply can't keep up with.",
+    "True Line takes a layered approach to cyber security, combining advanced technology, skilled engineers, and proven processes to protect every part of your business. Whether you need to secure endpoints, harden your network, monitor for threats, or build long-term cyber resilience, we deliver solutions that match your risks, your industry, and your budget."
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What We Offer",
+   "title": "Our Cyber Security Services",
+   "items": [
+    {
+     "icon": "fas fa-shield-virus",
+     "title": "SIEM, SOC & SOAR",
+     "text": "24/7 threat monitoring, detection, and automated response across your entire IT environment."
+    },
+    {
+     "icon": "fas fa-laptop-medical",
+     "title": "Endpoint Protection",
+     "text": "Next-gen antivirus, EDR, and XDR to defend every laptop, desktop, and server."
+    },
+    {
+     "icon": "fas fa-envelope-open-text",
+     "title": "Email Security",
+     "text": "Block phishing, malware, and business email compromise before they reach the inbox."
+    },
+    {
+     "icon": "fas fa-network-wired",
+     "title": "Network Security",
+     "text": "Firewalls, intrusion prevention, and secure architecture for resilient networks."
+    },
+    {
+     "icon": "fas fa-user-lock",
+     "title": "Privileged Access Management (PAM)",
+     "text": "Control, monitor, and audit access to your most sensitive systems."
+    },
+    {
+     "icon": "fas fa-lock",
+     "title": "Ransomware Protection",
+     "text": "Multi-layered defense to prevent, detect, contain, and recover from ransomware."
+    },
+    {
+     "icon": "fas fa-bug",
+     "title": "Vulnerability Assessment & Penetration Testing (VAPT)",
+     "text": "Identify and fix security weaknesses before attackers exploit them."
+    },
+    {
+     "icon": "fas fa-user-shield",
+     "title": "Security Awareness Training",
+     "text": "Turn your employees from your weakest link into your strongest line of defense."
+    },
+    {
+     "icon": "fas fa-clipboard-check",
+     "title": "Compliance & Audit Support",
+     "text": "Align your security posture with ISO 27001, PCI DSS, NESA, and UAE regulations."
+    }
+   ]
+  },
+  {
+   "type": "darkCards",
+   "tag": "OUR PROCESS",
+   "title": "Our Cyber Security Approach",
+   "lead": "A structured methodology that helps organizations strengthen security, reduce risks, and stay resilient against evolving cyber threats.",
+   "items": [
+    {
+     "icon": "fas fa-search",
+     "title": "Assess",
+     "text": "We evaluate your current security posture, infrastructure, vulnerabilities, and organizational risks."
+    },
+    {
+     "icon": "fas fa-drafting-compass",
+     "title": "Design",
+     "text": "A tailored security architecture built around your business, compliance needs, and threat profile."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "Implement",
+     "text": "Deployment of the right technologies, policies, and controls across your IT environment."
+    },
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "Monitor",
+     "text": "Continuous monitoring, event correlation, and threat detection from our 24/7 SOC team."
+    },
+    {
+     "icon": "fas fa-bolt",
+     "title": "Respond",
+     "text": "Rapid incident response, containment, investigation, and remediation when threats occur."
+    },
+    {
+     "icon": "fas fa-chart-line",
+     "title": "Improve",
+     "text": "Ongoing optimization, security reviews, proactive hardening, and continuous improvement."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why Businesses Trust True Line for Cyber Security",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Layered Defense Strategy",
+     "text": "Protection across endpoints, networks, email, identity, and cloud."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Certified Security Experts",
+     "text": "A skilled team with deep experience across leading security platforms."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "24/7 Threat Monitoring",
+     "text": "Always-on visibility and response from our security operations center."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Best-in-Class Partners",
+     "text": "Solutions from industry leaders like SentinelOne, Sophos, Acronis, CyberArk, Microsoft, and Mimecast."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Compliance-Ready",
+     "text": "Aligned with UAE and global compliance frameworks."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Tailored to Your Business",
+     "text": "Security designed around your industry, size, and risk profile."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/cyber-security-concept-digital-art-1-scaled.jpg",
+   "title": "Stay Secure. Stay Ahead",
+   "text": "Get a free cyber security assessment from True Line and see exactly where your business stands.",
+   "buttons": [
+    {
+     "label": "Request a Free Assessment",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

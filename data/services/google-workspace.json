@@ -1,0 +1,128 @@
+{
+ "slug": "google-workspace",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Google Workspace Solutions",
+   "subtitle": "Smart Tools. Seamless Collaboration. Simple to Use.",
+   "paragraphs": [
+    "Bring Gmail, Docs, Drive, Meet, and Calendar together in one connected platform. True Line helps businesses deploy, secure, and manage Google Workspace — so your team can collaborate faster and work smarter from anywhere."
+   ],
+   "cta": {
+    "label": "Talk to a Google Workspace Expert",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/bucharest-romania-july-30th-2024-young-man-clicks-facebook-page-bookmark_482257-116836.jpg"
+  },
+  {
+   "type": "intro",
+   "title": "Built for the Way Modern Teams Work",
+   "paragraphs": [
+    "Google Workspace is one of the world's most popular productivity platforms — and for good reason. With business email, cloud storage, real-time collaboration, and video meetings in one place, it gives teams everything they need to work better together, from anywhere.",
+    "True Line helps businesses get the most out of Google Workspace. Whether you're setting up for the first time, migrating from another platform, or scaling up across multiple locations, we handle the licensing, setup, security, and support — so your team can focus on getting work done."
+   ]
+  },
+  {
+   "type": "cards",
+   "title": "Our Google Workspace Services",
+   "items": [
+    {
+     "icon": "fas fa-id-card",
+     "title": "Licensing & Subscriptions",
+     "text": "Business Starter, Standard, Plus, and Enterprise plans tailored to your team."
+    },
+    {
+     "icon": "fas fa-globe",
+     "title": "Domain & Tenant Setup",
+     "text": "Domain verification, mailbox provisioning, and best-practice configuration."
+    },
+    {
+     "icon": "fas fa-exchange-alt",
+     "title": "Email Migration",
+     "text": "Smooth migration from Microsoft 365, on-premise Exchange, Zoho, or other platforms."
+    },
+    {
+     "icon": "fas fa-envelope",
+     "title": "Gmail Business Email",
+     "text": "Professional business email on your custom domain with enterprise-grade reliability."
+    },
+    {
+     "icon": "fas fa-cloud",
+     "title": "Google Drive & Shared Drives",
+     "text": "Secure cloud storage and document management for individuals and teams."
+    },
+    {
+     "icon": "fas fa-video",
+     "title": "Google Meet & Calendar",
+     "text": "Reliable video conferencing and unified scheduling across your organization."
+    },
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "Security & Admin Controls",
+     "text": "Two-step verification, DLP, mobile device management, and admin policies."
+    },
+    {
+     "icon": "fas fa-database",
+     "title": "Backup for Google Workspace",
+     "text": "Third-party backup solutions to protect your Gmail, Drive, and Calendar data."
+    }
+   ]
+  },
+  {
+   "type": "imageText",
+   "image": "/images/search-find-view-information-data-graphic-symbol-icon_53876-121005.avif",
+   "title": "Why Google Workspace?",
+   "paragraphs": []
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why True Line for Google Workspace",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Google Workspace Expertise",
+     "text": "Hands-on experience deploying Workspace for businesses of every size."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Smooth Migrations",
+     "text": "Migrations from Microsoft 365, Exchange, Zoho, and more — with zero data loss."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Security-First Configuration",
+     "text": "Every tenant configured with best-practice admin and security controls."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Backup Built In",
+     "text": "Third-party backup options recommended and deployed for true protection."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "End-User Support",
+     "text": "Training, onboarding, and adoption support for your team."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "One Trusted Partner",
+     "text": "Licensing, deployment, security, and ongoing support from one team."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/creative-group-working-startup-using-laptops-1-scaled.jpg",
+   "title": "Power Your Team With Google Workspace.",
+   "text": "From setup to security to support — True Line makes Google Workspace work for your business.",
+   "buttons": [
+    {
+     "label": "Book a Free Consultation",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

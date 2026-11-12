@@ -1,0 +1,164 @@
+{
+ "slug": "it-amc",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "IT Annual Maintenance Contracts (AMC)",
+   "subtitle": "Keep Your IT Running. Always.",
+   "paragraphs": [
+    "Reliable, proactive IT maintenance designed to keep your systems healthy, your team productive, and your business free from unexpected downtime. With True Line's AMC plans, your IT is in expert hands — every day of the year."
+   ],
+   "cta": {
+    "label": "Get a Free AMC Quote",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/technician-using-pc-data-center-update-server-tech-configuring-equipment_482257-126304.avif"
+  },
+  {
+   "type": "intro",
+   "title": "Why Your Business Needs an IT AMC",
+   "paragraphs": [
+    "IT issues don't wait for business hours — and neither should your support. An Annual Maintenance Contract gives your business consistent, predictable IT care without the cost of hiring a full in-house team.",
+    "At True Line Technologies, our AMC plans cover everything from preventive maintenance and on-site visits to remote troubleshooting and emergency response. Whether you run a small office or a multi-branch enterprise, we tailor every contract to match your environment, your priorities, and your budget — so your IT is always one step ahead of problems, not chasing them."
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What We Offer",
+   "title": "What Our IT AMC Covers",
+   "items": [
+    {
+     "icon": "fas fa-laptop",
+     "title": "Desktops, Laptops & Workstations",
+     "text": "Hardware diagnostics, OS support, troubleshooting, and performance tuning for end-user devices."
+    },
+    {
+     "icon": "fas fa-server",
+     "title": "Servers & Storage Systems",
+     "text": "Health checks, patching, backup verification, and proactive monitoring to keep your core systems stable."
+    },
+    {
+     "icon": "fas fa-network-wired",
+     "title": "Networks & Wi-Fi",
+     "text": "Routers, switches, access points, and structured cabling — kept optimized and reliable."
+    },
+    {
+     "icon": "fas fa-print",
+     "title": "Printers & Peripherals",
+     "text": "Configuration, troubleshooting, and maintenance of printers, scanners, and other office peripherals."
+    },
+    {
+     "icon": "fas fa-cloud",
+     "title": "Email & Cloud Services",
+     "text": "Microsoft 365, email account management, and cloud platform support."
+    },
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "Security & Antivirus",
+     "text": "Endpoint protection updates, firewall checks, and security policy reviews."
+    },
+    {
+     "icon": "fas fa-database",
+     "title": "Backup & Recovery",
+     "text": "Backup configuration, monitoring, and recovery support to safeguard your business data."
+    },
+    {
+     "icon": "fas fa-key",
+     "title": "Software & License Management",
+     "text": "Installation, updates, and license tracking for your business applications."
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "AMC Plans",
+   "title": "Flexible AMC Plans Built Around Your Business",
+   "lead": "Choose the level of support that fits how you work.",
+   "bg": "light",
+   "items": [
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "Comprehensive AMC",
+     "text": "Full coverage including parts, labor, on-site visits, and remote support. Ideal for businesses that want complete peace of mind with predictable IT costs."
+    },
+    {
+     "icon": "fas fa-tools",
+     "title": "Non-Comprehensive AMC",
+     "text": "Covers labor, support visits, and troubleshooting — hardware parts billed separately. A cost-effective option for businesses with newer equipment."
+    },
+    {
+     "icon": "fas fa-headset",
+     "title": "Remote Support AMC",
+     "text": "24/7 remote helpdesk and online troubleshooting for distributed teams or smaller offices that don't need frequent on-site visits."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "Custom AMC",
+     "text": "Tailored contracts built around your specific infrastructure, locations, response time requirements, and SLA needs."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why Businesses Across the UAE Choose True Line for AMC",
+   "items": [
+    {
+     "icon": "fas fa-user-tie fa-2x",
+     "title": "Certified IT Engineers",
+     "text": "Skilled technicians with hands-on experience across leading platforms and technologies."
+    },
+    {
+     "icon": "fas fa-bolt fa-2x",
+     "title": "Fast Response Times",
+     "text": "Defined SLAs with rapid remote and on-site support across Dubai and the UAE."
+    },
+    {
+     "icon": "fas fa-shield-alt fa-2x",
+     "title": "Proactive Maintenance",
+     "text": "Scheduled health checks and preventive care that stop issues before they start."
+    },
+    {
+     "icon": "fas fa-headset fa-2x",
+     "title": "24/7 Helpdesk",
+     "text": "Round-the-clock support whenever your team needs it — phone, email, or remote."
+    },
+    {
+     "icon": "fas fa-file-invoice-dollar fa-2x",
+     "title": "Transparent Pricing",
+     "text": "Clear, upfront contracts with no hidden costs or surprise fees."
+    },
+    {
+     "icon": "fas fa-layer-group fa-2x",
+     "title": "Single-Vendor Convenience",
+     "text": "One trusted partner for hardware, software, networks, security, and support."
+    }
+   ]
+  },
+  {
+   "type": "imageText",
+   "image": "/images/businessman-holding-gear-icon-with-tools-gearing-concept-target-focus-digital-diagram-graph-interfaces-virtual-ui-screen-connections-netwoork_150455-11772.avif",
+   "title": "Trusted by Businesses Across Industries",
+   "paragraphs": [
+    "Our AMC services power IT environments across real estate, manufacturing, logistics, trading, education, sports, interior design, and corporate offices — keeping operations smooth for businesses of every size."
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/miniature-workmen-repairing-laptop-keyboard-1-scaled.jpg",
+   "title": "Ready to Stop Worrying About IT?",
+   "text": "Let True Line's AMC team take care of your IT, so you can take care of your business. Get a free assessment and a tailored AMC quote today.",
+   "buttons": [
+    {
+     "label": "Request a Free AMC Quote",
+     "href": "mailto:sales@truelinetechnologies.com"
+    },
+    {
+     "label": "Talk to an IT Expert",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

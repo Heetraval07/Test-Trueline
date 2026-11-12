@@ -1,0 +1,128 @@
+{
+ "slug": "acronis",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Acronis Cyber Protection Solutions",
+   "subtitle": "Backup. Security. Recovery. All in One.",
+   "paragraphs": [
+    "Protect your business data and systems with Acronis Cyber Protect — the industry-leading platform that combines backup, anti-ransomware, endpoint security, and disaster recovery into a single, unified solution. As an Acronis partner, True Line delivers, deploys, and manages Acronis for businesses across the UAE."
+   ],
+   "cta": {
+    "label": "Book a Free Acronis Demo",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/1d96f01e578de267da0aca30ad84ccfc.jpg"
+  },
+  {
+   "type": "intro",
+   "title": "One Platform. Complete Cyber Protection.",
+   "paragraphs": [
+    "Backup alone isn't enough anymore. Modern threats target both your data and your backups — meaning traditional backup tools often fail exactly when you need them most. That's why Acronis combines backup, cybersecurity, and disaster recovery in a single, integrated platform.",
+    "As a trusted Acronis partner, True Line helps businesses deploy and manage Acronis Cyber Protect to safeguard everything — laptops, servers, virtual machines, Microsoft 365, Google Workspace, and more. From ransomware protection to instant recovery, we make sure your data, systems, and business are always protected and always recoverable."
+   ]
+  },
+  {
+   "type": "cards",
+   "title": "Acronis Solutions We Deliver",
+   "items": [
+    {
+     "icon": "fas fa-shield-virus",
+     "title": "Acronis Cyber Protect",
+     "text": "Integrated backup, anti-malware, and endpoint protection in one unified solution."
+    },
+    {
+     "icon": "fas fa-laptop",
+     "title": "Endpoint Backup",
+     "text": "Reliable backup for laptops, desktops, and workstations — locally and to the cloud."
+    },
+    {
+     "icon": "fas fa-server",
+     "title": "Server & VM Backup",
+     "text": "Image-based backup for physical servers, Hyper-V, VMware, and other virtual environments."
+    },
+    {
+     "icon": "fab fa-microsoft",
+     "title": "Microsoft 365 Backup",
+     "text": "Complete protection for Exchange Online, OneDrive, SharePoint, and Teams data."
+    },
+    {
+     "icon": "fab fa-google",
+     "title": "Google Workspace Backup",
+     "text": "Backup and recovery for Gmail, Drive, Calendar, and Contacts."
+    },
+    {
+     "icon": "fas fa-cloud-upload-alt",
+     "title": "Disaster Recovery",
+     "text": "Spin up cloud-based recovery servers in minutes during an outage."
+    },
+    {
+     "icon": "fas fa-user-shield",
+     "title": "Anti-Ransomware Protection",
+     "text": "AI-based protection that detects and stops ransomware in real time."
+    },
+    {
+     "icon": "fas fa-headset",
+     "title": "Managed Acronis Services",
+     "text": "Deployment, monitoring, backup verification, and ongoing support — fully managed."
+    }
+   ]
+  },
+  {
+   "type": "imageText",
+   "image": "/images/Acronis.png",
+   "title": "Why Acronis?",
+   "paragraphs": []
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why True Line for Acronis",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Authorized Acronis Partner",
+     "text": "Certified expertise in Acronis Cyber Protect and Cyber Protect Cloud."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "End-to-End Deployment",
+     "text": "From licensing and setup to policies, testing, and ongoing support."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Recovery-Ready",
+     "text": "We don't just configure backups — we make sure they actually work when needed."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Tailored Backup Strategies",
+     "text": "Solutions designed around your data, RPO/RTO targets, and budget."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Managed Services Option",
+     "text": "Fully managed Acronis deployments with monitoring and reporting."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Local Support",
+     "text": "Dubai-based team providing rapid response across the UAE."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/1d96f01e578de267da0aca30ad84ccfc-1.jpg",
+   "title": "Protect Your Data. Recover With Confidence.",
+   "text": "Get backup, security, and disaster recovery — all in one trusted Acronis solution from True Line.",
+   "buttons": [
+    {
+     "label": "Book a Free Acronis Demo",
+     "href": "#"
+    }
+   ]
+  }
+ ]
+}

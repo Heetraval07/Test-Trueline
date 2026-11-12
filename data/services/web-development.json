@@ -1,0 +1,332 @@
+{
+ "slug": "web-development",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Web Development Services",
+   "subtitle": "Built for Your Business. Designed for Your Users.",
+   "paragraphs": [
+    "From corporate websites and e-commerce platforms to complex custom web applications, True Line builds digital solutions that look great, perform flawlessly, and deliver real business results. Every project is tailored — no templates, no shortcuts."
+   ],
+   "cta": {
+    "label": "Start Your Project",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/person-front-computer-working-html-scaled.jpg"
+  },
+  {
+   "type": "intro",
+   "title": "Web Solutions Built Around Your Business Goals",
+   "paragraphs": [
+    "Your website and web applications are often the first thing customers, partners, and investors see — and the tools your team depends on every day. Getting them right matters.",
+    "At True Line, we don't build generic websites. We take time to understand your business, your users, and your goals — then design and develop web solutions that solve real problems and create real value. Whether you need a high-converting corporate website, a feature-rich e-commerce store, or a complex custom web application built from the ground up, our team has the expertise to deliver it — on time, on budget, and built to last",
+    "From design and development to deployment, integration, and ongoing support, True Line is your end-to-end web development partner."
+   ]
+  },
+  {
+   "type": "cards",
+   "title": "What We Build",
+   "items": [
+    {
+     "title": "Corporate Websites",
+     "text": "Professional, modern websites that represent your brand, communicate your value, and convert visitors into customers.."
+    },
+    {
+     "title": "E-Commerce Platforms",
+     "text": "Feature-rich online stores with product management, payment gateways, and seamless shopping experiences."
+    },
+    {
+     "title": "Custom Web Applications",
+     "text": "Tailored web apps built around your exact business workflows — from portals and dashboards to complex multi-user platforms."
+    },
+    {
+     "title": "Business Portals",
+     "text": "Customer portals, vendor portals, employee self-service portals, and partner platforms built for real-world use."
+    },
+    {
+     "title": "Landing Pages & Campaign Sites",
+     "text": "High-converting, performance-optimized landing pages built to support marketing campaigns and lead generation."
+    },
+    {
+     "title": "Web-Based Dashboards",
+     "text": "Real-time data dashboards and reporting tools that give your team actionable visibility into business performance."
+    },
+    {
+     "title": "ERP & CRM Web Integrations",
+     "text": "Web interfaces and integrations that connect your website with ERPNext, Odoo, CRMs, and backend systems."
+    },
+    {
+     "title": "API Development & Integration",
+     "text": "RESTful APIs, third-party integrations, and middleware to connect your web applications with any platform."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "title": "Custom Web Application Development",
+   "lead": "Off-the-shelf software rarely fits perfectly. When your business has unique processes, specific workflows, or operational challenges that no existing tool solves well — a custom web application is the answer.",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Operations Management Systems",
+     "text": "Custom platforms to manage day-to-day operations, job tracking, scheduling, and team workflows."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Client & Customer Portals",
+     "text": "Branded portals where your customers can view orders, raise tickets, download documents, and track progress."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Inventory & Asset Tracking",
+     "text": "Web-based tools for tracking stock, assets, equipment, and consumables in real time."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Booking & Scheduling Systems",
+     "text": "Custom booking platforms for appointments, resources, and service scheduling."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Workflow Automation Tools",
+     "text": "Web apps that digitize and automate manual approval, document, and process workflows."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Reporting & Analytics Platforms",
+     "text": "Custom dashboards and reporting tools pulling data from multiple sources into one place."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Multi-Tenant SaaS Applications",
+     "text": "Scalable, subscription-based web platforms built for businesses serving multiple clients."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Field Service Applications",
+     "text": "Web and mobile tools for managing field teams, job cards, site visits, and service reports."
+    }
+   ]
+  },
+  {
+   "type": "numbered",
+   "title": "Technologies We Work With",
+   "lead": "Modern, proven, and chosen for the right reasons — not just trends.",
+   "items": [
+    {
+     "title": "Frontend",
+     "text": "React, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS, JavaScript"
+    },
+    {
+     "title": "Backend",
+     "text": "Python, Node.js, Frappe Framework, Django, REST APIs"
+    },
+    {
+     "title": "CMS & E-Commerce",
+     "text": "WordPress, Elementor, WooCommerce, Shopify"
+    },
+    {
+     "title": "Databases",
+     "text": "MySQL, MariaDB, PostgreSQL, MongoDB"
+    },
+    {
+     "title": "Cloud & Hosting",
+     "text": "Microsoft Azure, AWS, DigitalOcean, VPS hosting, cPanel"
+    },
+    {
+     "title": "DevOps & Deployment",
+     "text": "Git, Docker, CI/CD pipelines, Linux server administration"
+    },
+    {
+     "title": "Integrations",
+     "text": "WhatsApp API, payment gateways (Stripe, PayTabs, Telr), ERPNext, Odoo, CRMs, and third-party APIs"
+    }
+   ]
+  },
+  {
+   "type": "process",
+   "tag": "Our Process",
+   "title": "How We Build Your Web Solution",
+   "steps": [
+    {
+     "title": "Discovery & Requirements",
+     "text": "We meet with your team to understand your goals, users, workflows, and technical requirements in detail."
+    },
+    {
+     "title": "Planning & Architecture",
+     "text": "We define the scope, sitemap, technical architecture, and project plan — with clear milestones and timelines."
+    },
+    {
+     "title": "UI/UX Design",
+     "text": "Wireframes and high-fidelity designs crafted around your brand and your users' needs — reviewed and approved before development begins"
+    },
+    {
+     "title": "Development",
+     "text": "Clean, well-structured code built using modern frameworks and best practices — frontend, backend, and integrations."
+    },
+    {
+     "title": "Testing & QA",
+     "text": "Thorough testing across devices, browsers, and user scenarios to ensure everything works perfectly."
+    },
+    {
+     "title": "Deployment",
+     "text": "Secure, optimized deployment to your hosting environment — with performance tuning and security hardening."
+    },
+    {
+     "title": "Training & Handover",
+     "text": "We train your team on managing and updating the platform, and provide full documentation."
+    },
+    {
+     "title": "Support & Maintenance",
+     "text": "Ongoing technical support, updates, and enhancements to keep your web solution running at its best."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why Custom Over Off-the-Shelf?",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Perfect Fit",
+     "text": "Built exactly around your workflows and processes — not a generic template you have to adapt to."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Competitive Advantage",
+     "text": "A unique platform your competitors can't simply copy or buy off a shelf."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Full Ownership",
+     "text": "You own the code, the data, and the platform — no vendor lock-in."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Scalability",
+     "text": "Built to grow with your business — add features, users, and modules as you evolve."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Integration Freedom",
+     "text": "Connect with any system, API, or data source your business depends on."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Long-Term Cost Efficiency",
+     "text": "No recurring per-user software fees — your investment pays off over time."
+    }
+   ]
+  },
+  {
+   "type": "benefitCards",
+   "title": "Web Solutions Across Industries",
+   "items": [
+    {
+     "icon": "fas fa-coins",
+     "title": "Trading & Distribution",
+     "text": "Customer portals, order management systems, and product catalogs integrated with ERP."
+    },
+    {
+     "icon": "fas fa-expand-arrows-alt",
+     "title": "Real Estate",
+     "text": "Property listing platforms, lead management portals, and tenant self-service applications."
+    },
+    {
+     "icon": "fas fa-globe",
+     "title": "Logistics & Freight",
+     "text": "Shipment tracking portals, job management systems, and customer-facing booking tools."
+    },
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "Healthcare",
+     "text": "Patient portals, appointment booking systems, and clinic management web applications."
+    },
+    {
+     "icon": "fas fa-coins",
+     "title": "Education",
+     "text": "Learning management systems, student portals, and enrollment and assessment platforms."
+    },
+    {
+     "icon": "fas fa-expand-arrows-alt",
+     "title": "Hospitality",
+     "text": "Reservation systems, guest portals, and service management applications."
+    },
+    {
+     "icon": "fas fa-globe",
+     "title": "Retail & E-Commerce",
+     "text": "Online stores, loyalty portals, and inventory management web applications."
+    },
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "Construction & Contracting",
+     "text": "Project tracking dashboards, subcontractor portals, and document management systems."
+    }
+   ]
+  },
+  {
+   "type": "darkCards",
+   "title": "Why True Line for Web Development",
+   "items": [
+    {
+     "icon": "fas fa-lightbulb",
+     "title": "Custom-First Mindset",
+     "text": "We build around your needs, not around templates or predefined solutions."
+    },
+    {
+     "icon": "fas fa-code",
+     "title": "Full-Stack Capability",
+     "text": "Design, frontend, backend, APIs, integrations, and DevOps — all in one team."
+    },
+    {
+     "icon": "fas fa-briefcase",
+     "title": "Business Understanding",
+     "text": "We invest time in understanding how your business works before writing a single line of code."
+    },
+    {
+     "icon": "fas fa-plug",
+     "title": "ERP & System Integration Expertise",
+     "text": "Deep experience connecting web applications with ERPNext, Odoo, CRMs, and third-party platforms."
+    },
+    {
+     "icon": "fas fa-globe-middle-east",
+     "title": "UAE Market Experience",
+     "text": "We understand the local business landscape, Arabic language requirements, and UAE-specific integrations."
+    },
+    {
+     "icon": "fas fa-tasks",
+     "title": "Transparent Project Management",
+     "text": "Clear timelines, regular updates, and no surprise scope changes or hidden costs."
+    },
+    {
+     "icon": "fas fa-headset",
+     "title": "Long-Term Support",
+     "text": "We don't disappear after launch — we stay with you for updates, enhancements, and ongoing support."
+    },
+    {
+     "icon": "fas fa-shield-halved",
+     "title": "Security-Conscious Development",
+     "text": "Security best practices built into every layer of development from day one."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/rear-view-programmer-working-all-night-long-scaled.jpg",
+   "title": "Let's Build Something Great Together.",
+   "text": "Whether you have a detailed brief or just an idea — True Line's web development team is ready to help you bring it to life. Let's talk about what you need.",
+   "buttons": [
+    {
+     "label": "Start Your Project",
+     "href": "#"
+    },
+    {
+     "label": "Request a Free Consultation",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

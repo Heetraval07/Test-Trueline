@@ -1,0 +1,363 @@
+{
+ "slug": "google-ads",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Google Ads Management Services",
+   "subtitle": "Be Found First. Pay for Results.",
+   "paragraphs": [
+    "When customers search for what you offer, your business should be the first thing they see. True Line's Google Ads management puts your business at the top of search results, drives qualified traffic, and maximizes every dirham of your ad spend."
+   ],
+   "cta": {
+    "label": "Get a Free Google Ads Audit",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/malaysia7-march-2022-top-view-colored-block-with-text-google-ads-blue-background_406607-1039-1.avif"
+  },
+  {
+   "type": "intro",
+   "title": "Google Ads That Actually Deliver ROI",
+   "paragraphs": [
+    "Google processes billions of searches every day — and the businesses appearing at the top of those results are winning customers their competitors never even get a chance to reach. Google Ads is the most powerful intent-driven advertising platform in the world — but only when it's managed the right way.",
+    "Poorly set up campaigns waste budget on irrelevant clicks, wrong audiences, and underperforming keywords. True Line's certified Google Ads specialists build, manage, and optimize campaigns that target the right people, at the right time, with the right message — turning your ad spend into measurable business results.",
+    "Whether you're running Google Ads for the first time or looking to fix underperforming campaigns, True Line brings the strategy, technical depth, and ongoing optimization your campaigns need to perform."
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What We Offer",
+   "title": "Our Google Ads Services",
+   "items": [
+    {
+     "title": "Search Campaigns",
+     "text": "Text ads that appear at the top of Google search results when customers actively search for your products or services"
+    },
+    {
+     "title": "Display Campaigns",
+     "text": "Visual banner ads across millions of websites to build brand awareness and retarget previous visitors."
+    },
+    {
+     "title": "Shopping Campaigns",
+     "text": "Product listing ads that showcase your products directly in Google search results with images and prices."
+    },
+    {
+     "title": "Video Campaigns (YouTube Ads)",
+     "text": "Video ads on YouTube and Google's video network to reach and engage your target audience at scale."
+    },
+    {
+     "title": "Performance Max Campaigns",
+     "text": "AI-powered campaigns that run across all Google channels — Search, Display, YouTube, Gmail, and Maps."
+    },
+    {
+     "title": "Remarketing Campaigns",
+     "text": "Re-engage visitors who left your website without converting with targeted ads that bring them back."
+    },
+    {
+     "title": "Local Search Ads",
+     "text": "Geo-targeted campaigns that drive foot traffic, calls, and direction requests for your UAE locations."
+    },
+    {
+     "title": "Google Ads Audit & Optimization",
+     "text": "In-depth audit of existing campaigns to identify waste, improve performance, and maximize ROI."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "What's Included",
+   "title": "What's Included in Our Google Ads Management",
+   "lead": "Everything your campaigns need to perform — from setup to ongoing optimization.",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Account Setup & Structure",
+     "text": "Professional campaign structure built for performance — ad groups, match types, and settings configured correctly from day one."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Keyword Research & Strategy",
+     "text": "In-depth keyword research to identify the highest-intent, most cost-effective search terms for your business."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Competitor Analysis",
+     "text": "Insight into what competitors are bidding on, their ad copy, and how to position your campaigns to win."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Ad Copywriting",
+     "text": "Compelling, high-converting ad copy tested across multiple variations to maximize click-through and conversion rates."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Audience Targeting",
+     "text": "Precise targeting by location, device, demographics, interests, and search behavior."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Bid Management & Budget Optimization",
+     "text": "Smart bidding strategies and continuous bid adjustments to get the most from every dirham spent."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Landing Page Recommendations",
+     "text": "Guidance on landing page improvements to maximize conversion rates from your ad traffic."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Conversion Tracking Setup",
+     "text": "Full conversion tracking — calls, form submissions, purchases, and key actions — so you know exactly what's working."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "A/B Testing",
+     "text": "Continuous testing of ads, audiences, and bidding strategies to improve performance month on month."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Monthly Reporting",
+     "text": "Clear, jargon-free reports covering impressions, clicks, conversions, cost per lead, and ROI."
+    }
+   ]
+  },
+  {
+   "type": "platforms",
+   "title": "Google Ads Campaign Types We Run",
+   "items": [
+    {
+     "title": "Search Ads — Capture Intent",
+     "text": "Your ads appear when someone actively searches for your product or service on Google. This is the highest-intent advertising available — you're reaching people at the exact moment they're looking for what you offer",
+     "bestFor": "Lead generation, service businesses, direct sales"
+    },
+    {
+     "title": "Display Ads — Build Awareness",
+     "text": "Visual banner ads placed across Google's Display Network — over 2 million websites, apps, and videos. Ideal for keeping your brand visible and remarketing to past visitors.",
+     "bestFor": "Brand awareness, remarketing, new product launches"
+    },
+    {
+     "title": "Shopping Ads — Showcase Products",
+     "text": "Product listing ads that show your product image, title, price, and store name directly in Google search results — driving high-intent buyers straight to your store.",
+     "bestFor": "E-commerce, retail, product-based businesses"
+    },
+    {
+     "title": "YouTube Ads — Engage with Video",
+     "text": "Skippable and non-skippable video ads on YouTube reaching users by demographics, interests, keywords, and placements — driving brand awareness and conversions at scale.",
+     "bestFor": "Brand building, product demonstrations, reaching mass audiences"
+    },
+    {
+     "title": "Performance Max — Maximize Reach",
+     "text": "Google's newest campaign type using AI to serve ads across all channels simultaneously — optimizing in real time to hit your conversion goals.",
+     "bestFor": "Businesses wanting maximum reach across all Google channels"
+    },
+    {
+     "title": "Remarketing — Recapture Lost Visitors",
+     "text": "Target people who visited your website, watched your videos, or engaged with your app — bringing them back with tailored ads when they're ready to convert.",
+     "bestFor": "All businesses — recovering lost leads and abandoned carts"
+    }
+   ]
+  },
+  {
+   "type": "process",
+   "tag": "Our Process",
+   "title": "How We Manage Your Google Ads",
+   "steps": [
+    {
+     "title": "Discovery & Goal Setting",
+     "text": "We learn about your business, target audience, competitors, and advertising goals to define the right strategy"
+    },
+    {
+     "title": "Account Audit",
+     "text": "For existing accounts, we conduct a full audit to identify wasted spend, structural issues, and quick wins."
+    },
+    {
+     "title": "Keyword & Audience Research",
+     "text": "Deep research into the keywords your customers use and the audiences most likely to convert."
+    },
+    {
+     "title": "Campaign Build",
+     "text": "Professional campaign structure, ad copy, targeting, bidding, and conversion tracking — set up correctly from day one."
+    },
+    {
+     "title": "Launch & Monitor",
+     "text": "Campaigns are launched and closely monitored in the early days to ensure performance is on track."
+    },
+    {
+     "title": "Ongoing Optimization",
+     "text": "Regular bid adjustments, keyword refinements, ad testing, and audience updates to improve performance continuously."
+    },
+    {
+     "title": "Reporting & Review",
+     "text": "Monthly performance reports with insights, recommendations, and a clear view of your return on ad spend."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Google Ads",
+   "title": "Why Google Ads for Your Business",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Instant Visibility",
+     "text": "Appear at the top of search results immediately — no waiting months for organic rankings."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Reach Ready Buyers",
+     "text": "Target people actively searching for exactly what you sell — the highest-intent audience available."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Full Budget Control",
+     "text": "Set your daily budget, pause campaigns anytime, and only pay when someone clicks."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Measurable Results",
+     "text": "Track every click, call, lead, and sale back to specific ads and keywords."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Highly Targeted",
+     "text": "Reach the right people by location, device, language, demographics, and search intent."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Scales With Your Business",
+     "text": "Start small, prove ROI, and scale confidently as results come in."
+    }
+   ]
+  },
+  {
+   "type": "benefitCards",
+   "tag": "Why Choose Us",
+   "title": "Why True Line for Google Ads",
+   "items": [
+    {
+     "icon": "fas fa-award",
+     "title": "Certified Google Ads Specialists",
+     "text": "A qualified team with hands-on experience managing campaigns across industries and budgets."
+    },
+    {
+     "icon": "fas fa-piggy-bank",
+     "title": "No Wasted Spend",
+     "text": "Rigorous negative keyword management, smart bidding, and continuous optimization to protect your budget."
+    },
+    {
+     "icon": "fas fa-bullseye",
+     "title": "Conversion-Focused",
+     "text": "We don't just drive traffic — we optimize for leads, sales, and measurable business outcomes."
+    },
+    {
+     "icon": "fas fa-chart-bar",
+     "title": "Transparent Reporting",
+     "text": "Clear reports that show exactly where your money goes and what it delivers."
+    },
+    {
+     "icon": "fas fa-globe",
+     "title": "UAE Market Expertise",
+     "text": "Deep knowledge of the UAE search landscape, local competition, and regional audience behavior."
+    },
+    {
+     "icon": "fas fa-funnel-dollar",
+     "title": "Full-Funnel Strategy",
+     "text": "Search, Display, Shopping, Video, and Remarketing working together for maximum impact."
+    },
+    {
+     "icon": "fas fa-handshake",
+     "title": "No Long-Term Lock-In",
+     "text": "Flexible contracts with monthly reviews — we earn your business every month."
+    }
+   ]
+  },
+  {
+   "type": "darkCards",
+   "title": "Google Ads for Your Industry",
+   "items": [
+    {
+     "icon": "fas fa-search",
+     "title": "IT & Technology Services",
+     "text": "Lead generation campaigns targeting businesses searching for IT support, managed services, and cyber security."
+    },
+    {
+     "icon": "fas fa-drafting-compass",
+     "title": "Real Estate",
+     "text": "Property buyer and investor campaigns targeting high-intent search terms."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "Retail & E-Commerce",
+     "text": "Shopping campaigns driving product sales with optimized product feeds."
+    },
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "Healthcare & Clinics",
+     "text": "Local search campaigns driving appointment bookings and patient inquiries."
+    },
+    {
+     "icon": "fas fa-bolt",
+     "title": "Education & Training",
+     "text": "Enrollment campaigns targeting students and professionals seeking courses."
+    },
+    {
+     "icon": "fas fa-chart-line",
+     "title": "Hospitality",
+     "text": "Hotel and restaurant campaigns targeting tourists and local diners."
+    },
+    {
+     "icon": "fas fa-search",
+     "title": "Construction & Contracting",
+     "text": "Lead generation for renovation, fit-out, and contracting services."
+    },
+    {
+     "icon": "fas fa-drafting-compass",
+     "title": "Legal & Professional Services",
+     "text": "High-intent search campaigns for law firms, consultants, and financial advisors."
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Frequently Asked Questions",
+   "items": [
+    {
+     "q": "How much should I spend on Google Ads?",
+     "a": "There's no one-size-fits-all answer. Budget depends on your industry, competition, and goals. We help you determine a realistic starting budget and scale it as results prove ROI. Most UAE businesses see strong results starting from AED 3,000–5,000 per month in ad spend."
+    },
+    {
+     "q": "How long before I see results?",
+     "a": "Google Search campaigns can drive leads within days of launch. For full optimization and consistent results, allow 60–90 days as data accumulates and campaigns are refined."
+    },
+    {
+     "q": "Do you charge a management fee on top of ad spend?",
+     "a": "Yes — our management fee covers strategy, setup, optimization, and reporting. Your ad spend goes directly to Google. We are fully transparent about both costs."
+    },
+    {
+     "q": "Can you take over existing campaigns?",
+     "a": "Absolutely. We audit your existing campaigns, identify issues and opportunities, and take over full management — often improving performance significantly from day one."
+    },
+    {
+     "q": "What results can I expect?",
+     "a": "Results vary by industry, budget, and competition. We set realistic expectations upfront, track performance closely, and optimize continuously to improve your cost per lead and return on ad spend."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/social-media-marketing-concept-marketing-with-applications-2-scaled.jpg",
+   "title": "Ready to Put Your Business at the Top of Google?",
+   "text": "Get a free Google Ads audit from True Line and find out exactly how your current campaigns are performing — and how much better they could be.",
+   "buttons": [
+    {
+     "label": "Get a Free Google Ads Audit",
+     "href": "mailto:sales@truelinetechnologies.com"
+    },
+    {
+     "label": "Talk to a Google Ads Specialist",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

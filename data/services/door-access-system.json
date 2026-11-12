@@ -1,0 +1,121 @@
+{
+ "slug": "door-access-system",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Door Access Control Systems",
+   "subtitle": "Control Who Goes Where. Anytime. Anywhere.",
+   "paragraphs": [
+    "Secure your premises with smart door access control. True Line delivers modern access systems — from biometric and RFID readers to cloud-managed multi-door solutions — giving you full control over who enters your business."
+   ],
+   "cta": {
+    "label": "Book a Free Consultation",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/door-handle-equipped-with-digital-lock-providing-secure-convenient-access-control-solution-smart-card-door-key-lock-system-hotel-ai-generated_538213-25720.avif"
+  },
+  {
+   "type": "intro",
+   "title": "Smarter Entry. Stronger Security.",
+   "paragraphs": [
+    "Traditional locks and keys can't keep up with the needs of modern businesses. Lost keys, unauthorized access, and limited audit trails create real security risks — and real operational headaches.",
+    "True Line designs and installs door access control systems that replace keys with secure, trackable, and centrally managed access. Whether you need to secure a single door or a multi-floor facility, our solutions give you complete control over who enters, when, and where — backed by detailed logs and real-time monitoring."
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What We Offer",
+   "title": "Our Access Control Solutions",
+   "items": [
+    {
+     "title": "Biometric Access Control",
+     "text": "Fingerprint, facial recognition, and palm scanning for high-security access."
+    },
+    {
+     "title": "RFID & Card-Based Access",
+     "text": "Smart card and RFID readers for fast, contactless entry."
+    },
+    {
+     "title": "PIN & Keypad Systems",
+     "text": "Code-based access for cost-effective, flexible entry control."
+    },
+    {
+     "title": "Mobile Access",
+     "text": "Use smartphones as secure digital credentials for entry."
+    },
+    {
+     "title": "Multi-Door Systems",
+     "text": "Centralized control across multiple doors, floors, or sites."
+    },
+    {
+     "title": "Time & Attendance Integration",
+     "text": "Combine access control with attendance tracking and payroll integration."
+    },
+    {
+     "title": "Visitor Management",
+     "text": "Manage and track visitors with digital check-ins and temporary access."
+    },
+    {
+     "title": "Cloud-Managed Access",
+     "text": "Manage access policies and view logs from anywhere through cloud platforms."
+    }
+   ]
+  },
+  {
+   "type": "imageText",
+   "image": "/images/image-electronic-door-lock-installed-hotel-room-door-provide-secure-access-smart-card-door-key-lock-system-hotel-ai-generated_538213-17254.jpg",
+   "title": "Why Modern Access Control?",
+   "paragraphs": []
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why True Line for Access Control",
+   "items": [
+    {
+     "image": "/images/team_9539662.png",
+     "title": "Leading Brand Partners",
+     "text": "ZKTeco, Hikvision, Suprema, HID, and more."
+    },
+    {
+     "image": "/images/video-editing_16947276.png",
+     "title": "Tailored System Design",
+     "text": "Access solutions designed around your facility layout and security needs."
+    },
+    {
+     "image": "/images/competence_2640621.png",
+     "title": "Integration Expertise",
+     "text": "Seamless integration with CCTV, attendance, and alarm systems."
+    },
+    {
+     "image": "/images/check_12515900.png",
+     "title": "Compliance Ready",
+     "text": "Aligned with UAE security and data protection requirements."
+    },
+    {
+     "image": "/images/download_8292031.png",
+     "title": "Reliable Installation",
+     "text": "Professional installation with minimal disruption."
+    },
+    {
+     "image": "/images/message_6327768.png",
+     "title": "Ongoing Support",
+     "text": "Maintenance and AMC plans to keep your system always operational."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/man-using-tablet-his-smart-home-1-scaled.jpg",
+   "title": "Take Control of Every Entry.",
+   "text": "Replace keys with smart, secure, trackable access control. Talk to True Line today.",
+   "buttons": [
+    {
+     "label": "Request a Free Site Survey",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

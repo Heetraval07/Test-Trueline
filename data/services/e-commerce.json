@@ -1,0 +1,396 @@
+{
+ "slug": "e-commerce",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "E-Commerce Website Development",
+   "subtitle": "Sell More. Reach Further. Grow Faster.",
+   "paragraphs": [
+    "Launch a powerful, conversion-optimized online store that works for your business around the clock. True Line builds e-commerce websites that look great, load fast, and are designed to turn visitors into buyers — on every device, every time."
+   ],
+   "cta": {
+    "label": "Start Your E-Commerce Project",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/showing-cart-trolley-shopping-online-sign-graphic-scaled.jpg"
+  },
+  {
+   "type": "intro",
+   "title": "Your Online Store, Built to Sell",
+   "paragraphs": [
+    "The shift to online commerce isn't slowing down — and businesses that invest in the right e-commerce platform are the ones winning. But not all online stores are created equal. A slow, poorly designed, or hard-to-manage store can cost you customers, revenue, and reputation.",
+    "True Line builds e-commerce websites tailored to your products, your customers, and your business model. Whether you're launching your first online store, migrating from an existing platform, or building a fully custom e-commerce solution, we design and develop experiences that make buying easy, build trust, and drive consistent sales.",
+    "From product catalog and payment integration to order management and logistics connectivity, we handle every layer of your e-commerce project — so you can focus on growing your business."
+   ]
+  },
+  {
+   "type": "cards",
+   "title": "E-Commerce Solutions We Build",
+   "items": [
+    {
+     "title": "B2C Online Stores",
+     "text": "Customer-facing retail stores built to convert browsers into buyers with seamless shopping experiences."
+    },
+    {
+     "title": "B2B E-Commerce Platforms",
+     "text": "Trade portals with customer-specific pricing, bulk ordering, credit terms, and account management."
+    },
+    {
+     "title": "Multi-Vendor Marketplaces",
+     "text": "Platforms that allow multiple sellers to list, manage, and sell products through a single storefront."
+    },
+    {
+     "title": "Wholesale & Distribution Portals",
+     "text": "Order portals for distributors and wholesale customers with tiered pricing and custom catalogs."
+    },
+    {
+     "title": "Product Catalog Websites",
+     "text": "Showcase your product range with rich content, specifications, and inquiry or quote request flows."
+    },
+    {
+     "title": "Subscription & Recurring Order Stores",
+     "text": "E-commerce platforms built for subscription boxes, recurring deliveries, and membership-based purchasing."
+    },
+    {
+     "title": "Mobile-First E-Commerce",
+     "text": "Stores designed and optimized for mobile shoppers — where the majority of online buying happens."
+    },
+    {
+     "title": "ERP-Integrated E-Commerce",
+     "text": "Online stores connected directly to ERPNext, Odoo, or your existing ERP for real-time inventory and order sync."
+    }
+   ]
+  },
+  {
+   "type": "platforms",
+   "title": "Platforms We Work With",
+   "lead": "We recommend the right platform for your business — not the one we're most familiar with.",
+   "items": [
+    {
+     "title": "WooCommerce",
+     "text": "The most popular e-commerce platform for WordPress. Flexible, cost-effective, and ideal for small to medium businesses wanting full control.",
+     "bestFor": "SMEs, content-heavy stores, businesses already on WordPress"
+    },
+    {
+     "title": "Shopify",
+     "text": "A fully hosted, easy-to-manage platform with a rich app ecosystem. Ideal for businesses that want to launch fast and scale quickly.",
+     "bestFor": "Fast launches, growing retail brands, multi-channel selling"
+    },
+    {
+     "title": "Magento / Adobe Commerce",
+     "text": "Enterprise-grade e-commerce for large catalogs, complex pricing rules, and high-traffic stores.",
+     "bestFor": "Large retailers, multi-store setups, B2B commerce"
+    },
+    {
+     "title": "Custom E-Commerce (React / Next.js)",
+     "text": "Fully bespoke e-commerce platforms built from scratch for businesses with unique requirements that off-the-shelf platforms can't handle.",
+     "bestFor": "Unique business models, marketplace platforms, ERP-integrated commerce"
+    },
+    {
+     "title": "ERPNext E-Commerce",
+     "text": "Native ERPNext web store integration for businesses already running on ERPNext — real-time inventory, pricing, and order sync out of the box.",
+     "bestFor": "ERPNext users wanting a connected online store"
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Key Features",
+   "title": "What Your E-Commerce Store Will Include",
+   "lead": "Everything your business needs to sell online — built in from day one.",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Product Management",
+     "text": "Unlimited products, categories, variants, attributes, and rich product descriptions with images and videos."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Smart Search & Filtering",
+     "text": "Fast, intuitive search and filtering so customers find exactly what they're looking for in seconds."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Shopping Cart & Checkout",
+     "text": "A smooth, frictionless checkout experience designed to reduce cart abandonment and increase conversions."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Payment Gateway Integration",
+     "text": "Local and international payment options — PayTabs, Telr, Stripe, PayPal, Apple Pay, and more."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Multi-Currency & Multi-Language",
+     "text": "Sell to customers in multiple countries with localized pricing, currencies, and language support."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Mobile-Responsive Design",
+     "text": "A pixel-perfect shopping experience across all screen sizes — desktop, tablet, and mobile."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Inventory Management",
+     "text": "Real-time stock tracking, low-stock alerts, and automatic out-of-stock handling."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Order Management",
+     "text": "A complete backend for processing, tracking, and managing orders from placement to delivery."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Shipping & Logistics Integration",
+     "text": "Connect with local and international couriers for real-time shipping rates and order tracking."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Discount, Coupon & Promotions Engine",
+     "text": "Flexible discount rules, coupon codes, flash sales, and bundle pricing to drive conversions."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Customer Accounts & Wishlists",
+     "text": "User registration, order history, saved addresses, and wishlists for returning customers."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "SEO Optimization",
+     "text": "Built-in SEO best practices — meta tags, structured data, sitemap, and fast page speeds."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Analytics & Reporting",
+     "text": "Sales reports, traffic analytics, conversion tracking, and customer behavior insights."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Reviews & Ratings",
+     "text": "Product review system to build social proof and drive purchase confidence."
+    }
+   ]
+  },
+  {
+   "type": "process",
+   "tag": "Our Process",
+   "title": "How We Build Your Online Store",
+   "steps": [
+    {
+     "title": "Discovery & Strategy",
+     "text": "We understand your products, target customers, competitors, and business goals to define the right e-commerce strategy."
+    },
+    {
+     "title": "Platform Selection",
+     "text": "We recommend the best platform based on your budget, product catalog, business model, and growth plans."
+    },
+    {
+     "title": "UI/UX Design",
+     "text": "We design a shopping experience that reflects your brand and is optimized for conversions — reviewed and approved before development."
+    },
+    {
+     "title": "Development & Configuration",
+     "text": "Your store is built, configured, and customized — from product catalog and payment setup to shipping rules and tax configuration."
+    },
+    {
+     "title": "Content & Product Upload",
+     "text": "We help structure your product data, categories, and content for maximum impact and SEO performance."
+    },
+    {
+     "title": "Integration & Testing",
+     "text": "Payment gateways, shipping providers, ERP connections, and third-party tools are integrated and thoroughly tested."
+    },
+    {
+     "title": "Launch",
+     "text": "A structured go-live with performance optimization, security hardening, and analytics setup."
+    },
+    {
+     "title": "Support & Growth",
+     "text": "Ongoing support, feature enhancements, and digital marketing services to help your store grow after launch."
+    }
+   ]
+  },
+  {
+   "type": "benefitCards",
+   "tag": "Integrations",
+   "title": "Integrations We Set Up",
+   "items": [
+    {
+     "icon": "fas fa-credit-card",
+     "title": "Payment Gateways",
+     "text": "PayTabs, Telr, Stripe, PayPal, Apple Pay, Google Pay, Cash on Delivery, and bank transfer."
+    },
+    {
+     "icon": "fas fa-truck-fast",
+     "title": "Logistics & Shipping",
+     "text": "Aramex, DHL, FedEx, Fetchr, and local UAE couriers with real-time tracking."
+    },
+    {
+     "icon": "fas fa-database",
+     "title": "ERP & Inventory",
+     "text": "ERPNext, Odoo, and custom ERP systems for real-time stock and order synchronization."
+    },
+    {
+     "icon": "fas fa-users",
+     "title": "CRM & Marketing",
+     "text": "Mailchimp, HubSpot, Klaviyo, and WhatsApp for customer communication and marketing automation."
+    },
+    {
+     "icon": "fas fa-chart-line",
+     "title": "Analytics & Tracking",
+     "text": "Google Analytics, Meta Pixel, Google Tag Manager, and conversion tracking."
+    },
+    {
+     "icon": "fas fa-store",
+     "title": "Social Commerce",
+     "text": "Instagram Shopping, Facebook Shop, and Google Shopping feed integration."
+    },
+    {
+     "icon": "fas fa-comments",
+     "title": "Live Chat & Support",
+     "text": "WhatsApp chat, Tidio, Intercom, and helpdesk integrations for real-time customer support."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why True Line for E-Commerce Development",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Conversion-Focused Design",
+     "text": "Every design decision is made with one goal — turning visitors into paying customers."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Full-Stack E-Commerce Expertise",
+     "text": "Design, development, payments, logistics, ERP integration, and SEO — all in one team."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Platform Flexibility",
+     "text": "We work across WooCommerce, Shopify, Magento, and fully custom builds — recommending the best fit, not the easiest option."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "ERP Integration Specialists",
+     "text": "Deep experience connecting e-commerce platforms with ERPNext and Odoo for real-time data sync."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "UAE Market Knowledge",
+     "text": "Local payment gateways, Arabic language support, UAE logistics providers, and VAT-compliant checkout flows."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Mobile-First Development",
+     "text": "Every store built to perform beautifully on mobile — where most of your customers will shop."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Performance & Speed",
+     "text": "Fast-loading stores optimized for Core Web Vitals, SEO, and conversion."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Post-Launch Growth Support",
+     "text": "We don't just build and leave — we support your store's growth with ongoing development and digital marketing."
+    }
+   ]
+  },
+  {
+   "type": "darkCards",
+   "title": "E-Commerce for Every Industry",
+   "items": [
+    {
+     "icon": "fas fa-search",
+     "title": "Fashion & Apparel",
+     "text": "Lookbook-style stores with size guides, variant management, and Instagram shopping integration."
+    },
+    {
+     "icon": "fas fa-drafting-compass",
+     "title": "Food & Beverage",
+     "text": "Online ordering platforms with delivery zones, time slots, and loyalty programs."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "Electronics & Technology",
+     "text": "Feature-rich product pages, comparison tools, warranty management, and technical specs."
+    },
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "Health & Beauty",
+     "text": "Clean, conversion-optimized stores with subscription options and loyalty rewards."
+    },
+    {
+     "icon": "fas fa-bolt",
+     "title": "Home & Furniture",
+     "text": "Room visualization, product bundles, delivery scheduling, and assembly service add-ons."
+    },
+    {
+     "icon": "fas fa-chart-line",
+     "title": "Industrial & B2B",
+     "text": "Trade portals with customer-specific pricing, bulk order forms, and credit account management."
+    },
+    {
+     "icon": "fas fa-search",
+     "title": "Gifts & Lifestyle",
+     "text": "Personalization tools, gift wrapping options, and occasion-based product collections."
+    },
+    {
+     "icon": "fas fa-drafting-compass",
+     "title": "Sports & Outdoors",
+     "text": "High-performance stores with size finders, gear bundles, and sports category navigation."
+    }
+   ]
+  },
+  {
+   "type": "numbered",
+   "title": "Why Getting E-Commerce Right Matters",
+   "items": [
+    {
+     "title": "Open 24/7",
+     "text": "Your store works around the clock — selling even while your team sleeps."
+    },
+    {
+     "title": "Reach Beyond Your Location",
+     "text": "Sell to customers across the UAE, the region, and internationally."
+    },
+    {
+     "title": "Lower Overhead",
+     "text": "Reduce the cost of physical retail while reaching a larger audience."
+    },
+    {
+     "title": "Data-Driven Decisions",
+     "text": "Real-time insights into what customers buy, browse, and abandon."
+    },
+    {
+     "title": "Brand Credibility",
+     "text": "A professional online store builds trust and positions your brand competitively."
+    },
+    {
+     "title": "Scalable Revenue",
+     "text": "The right e-commerce platform grows with your product range and customer base."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/discount-shopping-season-with-sale-scaled.jpg",
+   "title": "Ready to Launch Your Online Store?",
+   "text": "Whether you're starting from scratch or rebuilding what you have — True Line's e-commerce team will build you a store that performs, converts, and grows. Let's talk about your project.",
+   "buttons": [
+    {
+     "label": "Start Your E-Commerce Project",
+     "href": "tel:+971547658506"
+    },
+    {
+     "label": "Request a Free Consultation",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

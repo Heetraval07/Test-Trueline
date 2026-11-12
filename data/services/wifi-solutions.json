@@ -1,0 +1,123 @@
+{
+ "slug": "wifi-solutions",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Enterprise WiFi Solutions",
+   "subtitle": "Fast, Secure WiFi — Wherever Your Business Goes.",
+   "paragraphs": [
+    "Power your business with high-performance, enterprise-grade WiFi. True Line designs, installs, and manages WiFi networks that deliver reliable coverage, fast speeds, and robust security across every corner of your premises."
+   ],
+   "cta": {
+    "label": "Book a Free WiFi Site Survey",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/wi-fi-network-signal-cityscape-night-internet-connection-concept_1111504-20220.avif"
+  },
+  {
+   "type": "intro",
+   "title": "WiFi That Works As Hard As Your Business",
+   "paragraphs": [
+    "Modern businesses depend on WiFi for everything — from daily operations and cloud apps to guest access and IoT devices. But weak signals, dropped connections, and poor security can quickly turn WiFi from an asset into a liability.",
+    "True Line designs and deploys enterprise WiFi solutions built for performance, security, and scale. Using professional-grade access points, intelligent network design, and centralized management, we deliver WiFi that keeps your team productive and your customers connected — without compromise."
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What We Offer",
+   "title": "Our WiFi Solutions",
+   "items": [
+    {
+     "icon": "fas fa-map-marked-alt",
+     "title": "WiFi Site Survey & Design",
+     "text": "Professional surveys to map signal coverage, capacity, and access point placement."
+    },
+    {
+     "icon": "fas fa-wifi",
+     "title": "Enterprise Access Points",
+     "text": "High-performance WiFi 6 and WiFi 6E access points for offices, warehouses, and outdoor areas."
+    },
+    {
+     "icon": "fas fa-network-wired",
+     "title": "Centralized Network Management",
+     "text": "Cloud-managed WiFi for unified control across single or multiple locations."
+    },
+    {
+     "icon": "fas fa-user-shield",
+     "title": "Guest WiFi & Captive Portals",
+     "text": "Branded, secure guest WiFi with login pages, time limits, and usage controls."
+    },
+    {
+     "icon": "fas fa-lock",
+     "title": "Secure Authentication",
+     "text": "WPA3, RADIUS, and 802.1X authentication for enterprise-grade security."
+    },
+    {
+     "icon": "fas fa-project-diagram",
+     "title": "Network Segmentation",
+     "text": "Separate networks for staff, guests, and IoT to enhance security and performance."
+    },
+    {
+     "icon": "fas fa-broadcast-tower",
+     "title": "High-Density Coverage",
+     "text": "WiFi designs optimized for conference rooms, auditoriums, and crowded environments."
+    },
+    {
+     "icon": "fas fa-headset",
+     "title": "Ongoing Monitoring & Support",
+     "text": "Continuous performance monitoring and rapid issue resolution."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why True Line for WiFi",
+   "items": [
+    {
+     "icon": "fas fa-handshake fa-2x",
+     "title": "Leading Brand Partners",
+     "text": "Cisco, Aruba, Ruckus, Ubiquiti, MikroTik, and TP-Link Omada."
+    },
+    {
+     "icon": "fas fa-map-marked-alt fa-2x",
+     "title": "Survey-Based Design",
+     "text": "Real-world site surveys ensure full coverage with no dead zones."
+    },
+    {
+     "icon": "fas fa-shield-alt fa-2x",
+     "title": "Security-First Architecture",
+     "text": "Every deployment hardened with enterprise security standards."
+    },
+    {
+     "icon": "fas fa-expand-arrows-alt fa-2x",
+     "title": "Scalable Solutions",
+     "text": "From small offices to multi-floor enterprises and outdoor environments."
+    },
+    {
+     "icon": "fas fa-network-wired fa-2x",
+     "title": "Centralized Management",
+     "text": "Single dashboard control across all your WiFi infrastructure."
+    },
+    {
+     "icon": "fas fa-headset fa-2x",
+     "title": "Ongoing Support",
+     "text": "Managed WiFi services and AMC plans for continuous performance."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/finger-touching-phone-with-wifi-1-scaled.jpg",
+   "title": "Power Every Device. Connect Every Corner.",
+   "text": "Get enterprise WiFi designed for real-world performance and built for what's next.",
+   "buttons": [
+    {
+     "label": "Request a Free Site Survey",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

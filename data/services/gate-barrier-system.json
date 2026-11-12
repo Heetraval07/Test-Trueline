@@ -1,0 +1,123 @@
+{
+ "slug": "gate-barrier-system",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Gate Barrier & Vehicle Access Systems",
+   "subtitle": "Smarter Vehicle Access. Stronger Perimeter Control.",
+   "paragraphs": [
+    "Manage vehicle entry and exit with automated gate barriers and intelligent access systems. True Line designs and installs gate barrier solutions for offices, parking lots, residential buildings, factories, and gated communities across the UAE."
+   ],
+   "cta": {
+    "label": "Book a Free Site Survey",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/subway-station_1112-1832.jpg"
+  },
+  {
+   "type": "intro",
+   "title": "Control What Enters Your Premises",
+   "paragraphs": [
+    "Vehicle access is one of the most important — and often overlooked — aspects of physical security. Manual gates create bottlenecks, security risks, and operational inefficiencies that grow worse as your business scales.",
+    "True Line delivers automated gate barrier systems that combine speed, security, and smart integration. From boom barriers and bollards to license plate recognition and RFID-based entry, our solutions secure your perimeter while keeping vehicle flow smooth and efficient."
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What We Offer",
+   "title": "Our Gate Barrier Solutions",
+   "items": [
+    {
+     "title": "Automatic Boom Barriers",
+     "text": "High-speed barriers for parking lots, offices, and commercial premises."
+    },
+    {
+     "title": "RFID-Based Access",
+     "text": "Long-range RFID readers for hands-free vehicle entry."
+    },
+    {
+     "title": "License Plate Recognition (LPR)",
+     "text": "Camera-based vehicle identification for seamless, ticketless access."
+    },
+    {
+     "title": "Card & Ticket Systems",
+     "text": "Card-based and ticket-issuing systems for visitor and paid parking management."
+    },
+    {
+     "title": "Loop Detectors & Safety Sensors",
+     "text": "Built-in safety with vehicle detection and obstruction sensors."
+    },
+    {
+     "title": "Integration with Access Control",
+     "text": "Unified vehicle and pedestrian access management from a single platform."
+    },
+    {
+     "title": "Bollards & Road Blockers",
+     "text": "High-security solutions for sensitive sites and critical infrastructure."
+    },
+    {
+     "title": "Visitor & Parking Management",
+     "text": "Software to manage visitor entries, parking slots, and access policies."
+    }
+   ]
+  },
+  {
+   "type": "imageText",
+   "image": "/images/intercom-gate-front-residential-building-1-scaled.jpg",
+   "title": "Where Our Solutions Are Deployed",
+   "paragraphs": [
+    "Our gate barrier systems serve corporate offices, residential communities, industrial facilities, warehouses, hotels, hospitals, schools, and shopping centers — built to match the traffic volume and security needs of each environment."
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why True Line for Gate Barriers",
+   "items": [
+    {
+     "image": "/images/team_9539662.png",
+     "title": "Trusted Brand Partners",
+     "text": "FAAC, CAME, Magnetic Autocontrol, Nice, and BFT."
+    },
+    {
+     "image": "/images/video-editing_16947276.png",
+     "title": "Designed for UAE Conditions",
+     "text": "Solutions built to withstand heat, dust, and high-frequency operation."
+    },
+    {
+     "image": "/images/customer-service_3631126.png",
+     "title": "End-to-End Service",
+     "text": "survey, design, civil work coordination, installation, and support."
+    },
+    {
+     "image": "/images/competence_2640621.png",
+     "title": "Integration Expertise",
+     "text": "Seamless integration with CCTV, access control, and parking management."
+    },
+    {
+     "image": "/images/check_12515900.png",
+     "title": "Compliance Ready",
+     "text": "Installations aligned with SIRA and UAE security regulations."
+    },
+    {
+     "image": "/images/6945772.png",
+     "title": "Reliable Maintenance",
+     "text": "AMC plans to keep your barriers running 24/7."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/ticket-barriers-subway-entrance-1-1-scaled.jpg",
+   "title": "Secure Your Perimeter. Streamline Your Entry.",
+   "text": "Get professional gate barrier solutions designed for your premises. Talk to True Line today.",
+   "buttons": [
+    {
+     "label": "Request a Free Site Survey",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

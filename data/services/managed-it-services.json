@@ -1,0 +1,233 @@
+{
+ "slug": "managed-it-services",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Managed IT Services",
+   "subtitle": "Your IT, Fully Managed. Your Business, Fully Focused.",
+   "paragraphs": [
+    "Run your business without worrying about IT. True Line's Managed IT Services give you a complete, expert-led IT department — handling everything from daily support to long-term technology strategy, so you can focus on growth."
+   ],
+   "cta": {
+    "label": "Book a Free Consultation",
+    "href": "#"
+   },
+   "image": "/images/standard-quality-control-collage-concept_23-2149595847.jpg"
+  },
+  {
+   "type": "intro",
+   "title": "A Smarter Way to Manage Your IT",
+   "paragraphs": [
+    "Today's businesses depend on technology more than ever — but managing it in-house is complex, costly, and time-consuming. Hiring, training, and retaining a full IT team isn't always practical, especially when you need round-the-clock coverage and specialized expertise.",
+    "That's where True Line steps in. Our Managed IT Services give you the capabilities of an enterprise-grade IT department at a fraction of the cost. We monitor, manage, and maintain your entire IT environment — proactively preventing issues, securing your systems, and keeping your team productive every single day."
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What's Included",
+   "title": "What Our Managed IT Services Cover",
+   "lead": "Complete IT management, end to end.",
+   "items": [
+    {
+     "icon": "fas fa-chart-line",
+     "title": "24/7 Monitoring & Alerts",
+     "text": "Continuous monitoring of servers, networks, and endpoints — issues detected and resolved before they impact you."
+    },
+    {
+     "icon": "fas fa-headset",
+     "title": "Helpdesk & End-User Support",
+     "text": "Remote and on-site support for your team, with fast response times and friendly, expert technicians."
+    },
+    {
+     "icon": "fas fa-network-wired",
+     "title": "Network Management",
+     "text": "Configuration, optimization, and security of routers, switches, firewalls, and Wi-Fi networks."
+    },
+    {
+     "icon": "fas fa-server",
+     "title": "Server & Cloud Management",
+     "text": "Administration of on-premise servers, cloud workloads, Microsoft 365, and hybrid environments."
+    },
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "Cybersecurity Management",
+     "text": "Endpoint protection, patch management, firewall monitoring, and threat response built into every plan."
+    },
+    {
+     "icon": "fas fa-database",
+     "title": "Backup & Disaster Recovery",
+     "text": "Automated backups, recovery testing, and continuity planning to keep your data safe."
+    },
+    {
+     "icon": "fas fa-sync-alt",
+     "title": "Patch & Update Management",
+     "text": "Regular OS, software, and security updates to keep systems current and protected."
+    },
+    {
+     "icon": "fas fa-key",
+     "title": "Asset & License Management",
+     "text": "Tracking, reporting, and lifecycle management of all your IT assets and software licenses."
+    },
+    {
+     "icon": "fas fa-handshake",
+     "title": "Vendor Management",
+     "text": "We coordinate with your ISPs, software vendors, and hardware suppliers — so you don't have to."
+    },
+    {
+     "icon": "fas fa-lightbulb",
+     "title": "IT Strategy & Consulting",
+     "text": "Quarterly reviews and roadmap planning to align IT with your business goals."
+    }
+   ]
+  },
+  {
+   "type": "models",
+   "tag": "Service Models",
+   "title": "Flexible Engagement Models",
+   "lead": "Choose the level of support that fits your business.",
+   "items": [
+    {
+     "icon": "fas fa-building",
+     "title": "Fully Managed IT",
+     "text": "We become your complete IT department. Ideal for businesses without internal IT staff that want full coverage and accountability."
+    },
+    {
+     "icon": "fas fa-users",
+     "title": "Co-Managed IT",
+     "text": "We work alongside your existing IT team — handling specialized tasks, after-hours support, or specific functions like security or cloud."
+    },
+    {
+     "icon": "fas fa-headset",
+     "title": "Remote Managed Services",
+     "text": "24/7 remote monitoring, helpdesk, and management for distributed teams or businesses with multiple locations."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "Custom Managed Services",
+     "text": "Tailored plans built around your specific infrastructure, response time needs, and SLA requirements."
+    }
+   ]
+  },
+  {
+   "type": "numbered",
+   "tag": "Benefits",
+   "title": "The Business Benefits of Managed IT",
+   "items": [
+    {
+     "title": "Reduced Downtime",
+     "text": "Proactive monitoring and rapid response keep your systems up and your team productive."
+    },
+    {
+     "title": "Lower IT Costs",
+     "text": "Reduce the cost of hiring, training, and retaining in-house IT staff while gaining broader expertise."
+    },
+    {
+     "title": "Stronger Security",
+     "text": "Continuous monitoring, patching, and threat detection protect your business from evolving cyber risks."
+    },
+    {
+     "title": "Scalability",
+     "text": "Easily scale IT resources up or down as your business grows or your needs change."
+    },
+    {
+     "title": "Focus on Core Business",
+     "text": "Free your leadership and team from IT distractions and focus on what really moves the business forward."
+    },
+    {
+     "title": "Better Decision-Making",
+     "text": "Regular reporting and IT insights help you plan smarter and invest in the right technology."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why Businesses Trust True Line to Manage Their IT",
+   "bg": "white",
+   "items": [
+    {
+     "icon": "fas fa-shield-alt fa-2x",
+     "title": "Proactive, Not Reactive",
+     "text": "We prevent IT issues before they disrupt your business — not just fix them when they break."
+    },
+    {
+     "icon": "fas fa-dollar-sign fa-2x",
+     "title": "Predictable Monthly Costs",
+     "text": "Flat-rate pricing with no surprise bills, so you can budget confidently."
+    },
+    {
+     "icon": "fas fa-user-tie fa-2x",
+     "title": "Certified IT Experts",
+     "text": "A skilled team with deep experience across networks, security, cloud, and enterprise platforms."
+    },
+    {
+     "icon": "fas fa-cogs fa-2x",
+     "title": "Enterprise-Grade Tools",
+     "text": "We use the same monitoring, automation, and security tools trusted by global enterprises."
+    },
+    {
+     "icon": "fas fa-globe fa-2x",
+     "title": "Local Presence, Global Standards",
+     "text": "Based in Dubai, serving the UAE and the wider Middle East with international best practices."
+    },
+    {
+     "icon": "fas fa-handshake fa-2x",
+     "title": "Single Point of Accountability",
+     "text": "One partner for everything IT — from hardware and networks to cloud, security, and strategy."
+    }
+   ]
+  },
+  {
+   "type": "process",
+   "tag": "Our Process",
+   "title": "How We Get Started",
+   "steps": [
+    {
+     "title": "Discovery & Assessment",
+     "text": "We meet with you to understand your business, evaluate your current IT setup, and identify gaps and opportunities."
+    },
+    {
+     "title": "Tailored Proposal",
+     "text": "You receive a clear, customized managed services plan with defined scope, SLAs, and transparent pricing."
+    },
+    {
+     "title": "Onboarding & Setup",
+     "text": "We deploy monitoring tools, document your environment, and align with your team — with minimal disruption."
+    },
+    {
+     "title": "Day-to-Day Management",
+     "text": "Continuous monitoring, support, and maintenance keep your IT performing at its best."
+    },
+    {
+     "title": "Reviews & Optimization",
+     "text": "Regular check-ins and reports ensure your IT keeps pace with your business goals."
+    }
+   ]
+  },
+  {
+   "type": "imageText",
+   "image": "/images/two-young-entrepreneurs-working-computer-reading-email-office_637285-1065.avif",
+   "title": "Trusted Across Industries",
+   "paragraphs": [
+    "We deliver managed IT services to businesses across real estate, manufacturing, logistics, trading, education, sports, interior design, and corporate offices — supporting environments of every size and complexity."
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/standard-quality-control-concept-m-2-1-scaled.jpg",
+   "title": "Ready to Hand Off Your IT?",
+   "text": "Stop firefighting IT issues and start running your business with confidence. Let True Line manage your technology end-to-end — securely, reliably, and cost-effectively.",
+   "buttons": [
+    {
+     "label": "Book a Free Consultation",
+     "href": "mailto:sales@truelinetechnologies.com"
+    },
+    {
+     "label": "Talk to an IT Expert",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "slug": "structured-cabling",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Structured Cabling Solutions",
+   "subtitle": "The Backbone Behind Every Connected Business.",
+   "paragraphs": [
+    "Behind every reliable IT network is a well-designed cabling system. True Line delivers professional structured cabling — from data and voice cabling to fiber optic and complete cabling infrastructure — built to support your business today and scale for tomorrow."
+   ],
+   "cta": {
+    "label": "Book a Free WiFi Site Survey",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/male-electrician-works-switchboard-overalls-against-backdrop-emergency-lighting_169016-66412.jpg"
+  },
+  {
+   "type": "intro",
+   "title": "Build Your Network on a Strong Foundation",
+   "paragraphs": [
+    "Structured cabling is the invisible backbone that connects your computers, phones, cameras, access points, and servers. When it's done right, everything works. When it's done wrong, you face constant slowdowns, downtime, and expensive troubleshooting.",
+    "True Line designs and installs structured cabling systems that meet international standards, support modern bandwidth requirements, and scale with your business. From new office fit-outs to data center cabling and large-scale renovations, our team delivers cabling infrastructure that's clean, certified, and built to last."
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What We Offer",
+   "title": "Our Structured Cabling Services",
+   "items": [
+    {
+     "icon": "fas fa-ethernet",
+     "title": "Data Cabling (Cat6 / Cat6A / Cat7)",
+     "text": "High-performance copper cabling for modern Ethernet networks."
+    },
+    {
+     "icon": "fas fa-phone-alt",
+     "title": "Voice Cabling",
+     "text": "Cabling infrastructure for traditional and IP-based telephony."
+    },
+    {
+     "icon": "fas fa-wave-square",
+     "title": "Fiber Optic Cabling",
+     "text": "Single-mode and multi-mode fiber for high-bandwidth, long-distance connectivity."
+    },
+    {
+     "icon": "fas fa-server",
+     "title": "Server Room & Data Center Cabling",
+     "text": "Organized, certified cabling for racks, patch panels, and core infrastructure."
+    },
+    {
+     "icon": "fas fa-video",
+     "title": "CCTV & Access Control Cabling",
+     "text": "Dedicated cabling for surveillance and security systems."
+    },
+    {
+     "icon": "fas fa-sitemap",
+     "title": "Cable Management",
+     "text": "Trunking, trays, and labeling for clean, scalable, and maintainable installations."
+    },
+    {
+     "icon": "fas fa-check-circle",
+     "title": "Testing & Certification",
+     "text": "Fluke testing and certified reports for every cable run we install."
+    },
+    {
+     "icon": "fas fa-tools",
+     "title": "Renovation & Re-cabling",
+     "text": "Cleanup and re-cabling for existing facilities with legacy or unmanaged cabling."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why True Line for Structured Cabling",
+   "items": [
+    {
+     "icon": "fas fa-award fa-2x",
+     "title": "International Standards",
+     "text": "Installations compliant with TIA/EIA, ISO, and BICSI standards."
+    },
+    {
+     "icon": "fas fa-network-wired fa-2x",
+     "title": "Certified Cabling Brands",
+     "text": "Trusted partners including Commscope, Panduit, Schneider, Legrand, and D-Link."
+    },
+    {
+     "icon": "fas fa-expand-arrows-alt fa-2x",
+     "title": "Skilled Technicians",
+     "text": "Experienced cabling teams who deliver clean, organized, and certified installations."
+    },
+    {
+     "icon": "fas fa-file-alt fa-2x",
+     "title": "Detailed Documentation",
+     "text": "Every project delivered with cable maps, labels, and test reports."
+    },
+    {
+     "icon": "fas fa-expand-arrows-alt fa-2x",
+     "title": "Scalable Designs",
+     "text": "Cabling infrastructure built to support your future needs, not just today's."
+    },
+    {
+     "icon": "fas fa-tools fa-2x",
+     "title": "End-to-End Service",
+     "text": "Site survey, design, installation, testing, and ongoing support."
+    }
+   ]
+  },
+  {
+   "type": "capability",
+   "tag": "Project Capability",
+   "title": "From Small Offices to Large Enterprises",
+   "text": "We deliver structured cabling for offices, retail outlets, warehouses, data centers, hotels, schools, hospitals, factories, and multi-floor commercial buildings — projects of every size and complexity."
+  },
+  {
+   "type": "cta",
+   "image": "/images/electrical-panel-with-fuses-contactors-closeup-1-scaled.jpg",
+   "title": "Build Your Business on a Strong Cabling Foundation.",
+   "text": "Get professional structured cabling designed for performance, reliability, and growth.",
+   "buttons": [
+    {
+     "label": "Request a Free Site Survey",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

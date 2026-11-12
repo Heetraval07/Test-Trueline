@@ -1,0 +1,308 @@
+{
+ "slug": "social-media-marketing",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Social Media Marketing Services",
+   "subtitle": "Build Your Brand. Grow Your Audience. Drive Real Results.",
+   "paragraphs": [
+    "Social media is where your customers spend their time — and where your brand needs to show up, stand out, and connect. True Line delivers strategic social media marketing that builds brand awareness, grows engaged audiences, and turns followers into customers."
+   ],
+   "cta": {
+    "label": "Get a Free Social Media Audit",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/social-media-marketing-concept-marketing-with-applications-1-scaled.jpg"
+  },
+  {
+   "type": "intro",
+   "title": "Social Media That Does More Than Look Good",
+   "paragraphs": [
+    "Posting occasionally and hoping for likes isn't a social media strategy. Real social media marketing is about building a consistent brand presence, creating content that resonates with your audience, and using data to continuously improve results.",
+    "True Line's social media marketing team combines creative content, strategic planning, and performance analytics to build a social presence that genuinely grows your business. Whether you're starting from scratch or looking to scale what you already have, we manage every aspect of your social media — from strategy and content creation to community management and reporting — so you can focus on running your business while your brand grows online."
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What We Offer",
+   "title": "Our Social Media Marketing Services",
+   "items": [
+    {
+     "title": "Social Media Strategy",
+     "text": "A data-driven strategy built around your business goals, target audience, competitors, and the platforms that matter most to your customers."
+    },
+    {
+     "title": "Content Creation",
+     "text": "Scroll-stopping graphics, videos, reels, carousels, and copy crafted to reflect your brand and engage your audience."
+    },
+    {
+     "title": "Social Media Management",
+     "text": "End-to-end management of your social accounts — content scheduling, publishing, monitoring, and community engagement."
+    },
+    {
+     "title": "Community Management",
+     "text": "Responding to comments, messages, and mentions to build genuine relationships with your audience."
+    },
+    {
+     "title": "Influencer Marketing",
+     "text": "Identifying and collaborating with relevant influencers to amplify your brand's reach and credibility."
+    },
+    {
+     "title": "Social Media Advertising",
+     "text": "Paid campaigns on Facebook, Instagram, LinkedIn, TikTok, and Snapchat to accelerate reach and drive conversions."
+    },
+    {
+     "title": "Brand Identity & Voice",
+     "text": "Developing a consistent visual identity, tone of voice, and content style that sets your brand apart."
+    },
+    {
+     "title": "Performance Reporting",
+     "text": "Monthly reports covering reach, engagement, follower growth, and campaign performance with clear, actionable insights."
+    }
+   ]
+  },
+  {
+   "type": "models",
+   "title": "Platforms We Manage",
+   "items": [
+    {
+     "icon": "fas fa-building",
+     "title": "Instagram",
+     "text": "Visual storytelling, reels, stories, and shoppable posts for brand building and direct sales."
+    },
+    {
+     "icon": "fas fa-users",
+     "title": "Facebook",
+     "text": "Page management, community building, and targeted advertising for broad audience reach."
+    },
+    {
+     "icon": "fas fa-headset",
+     "title": "LinkedIn",
+     "text": "Professional brand building, thought leadership content, and B2B lead generation."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "Google Business Profile",
+     "text": "Managing your Google listing for local visibility, reviews, and search presence."
+    }
+   ]
+  },
+  {
+   "type": "benefitCards",
+   "title": "Content We Create for Your Brand",
+   "lead": "Creative content built to stop the scroll and start the conversation.",
+   "items": [
+    {
+     "icon": "fas fa-image",
+     "title": "Static Graphics & Posts",
+     "text": "On-brand designed posts for product launches, promotions, announcements, and brand awareness."
+    },
+    {
+     "icon": "fas fa-video",
+     "title": "Reels & Short Videos",
+     "text": "Engaging short-form video content for Instagram and Facebook Reels that drives reach and engagement."
+    },
+    {
+     "icon": "fas fa-clock",
+     "title": "Stories",
+     "text": "Daily story content that keeps your brand top of mind and drives direct interaction."
+    },
+    {
+     "icon": "fas fa-images",
+     "title": "Carousels",
+     "text": "Multi-slide educational, promotional, and storytelling content that drives saves and shares."
+    },
+    {
+     "icon": "fas fa-box-open",
+     "title": "Product & Service Showcases",
+     "text": "Visually compelling posts that highlight your products, services, and key offerings."
+    },
+    {
+     "icon": "fas fa-camera",
+     "title": "Behind-the-Scenes Content",
+     "text": "Authentic content that humanizes your brand and builds trust with your audience."
+    },
+    {
+     "icon": "fas fa-star",
+     "title": "Testimonials & Case Studies",
+     "text": "Social proof content that builds credibility and supports purchase decisions."
+    },
+    {
+     "icon": "fas fa-calendar-days",
+     "title": "Seasonal & Campaign Content",
+     "text": "Content tied to UAE public holidays, seasonal events, and promotional campaigns."
+    }
+   ]
+  },
+  {
+   "type": "process",
+   "tag": "Our Process",
+   "title": "How We Manage Your Social Media",
+   "steps": [
+    {
+     "title": "Audit & Analysis",
+     "text": "We review your existing social presence, audience, competitors, and industry to identify opportunities and gaps."
+    },
+    {
+     "title": "Strategy Development",
+     "text": "A custom social media strategy covering platforms, content pillars, posting frequency, tone of voice, and KPIs."
+    },
+    {
+     "title": "Content Planning",
+     "text": "A monthly content calendar planned in advance — reviewed and approved by you before publishing."
+    },
+    {
+     "title": "Content Creation",
+     "text": "Our creative team produces all graphics, videos, and copy aligned with your brand and strategy."
+    },
+    {
+     "title": "Publishing & Scheduling",
+     "text": "Content is published at optimal times for maximum reach and engagement on each platform."
+    },
+    {
+     "title": "Community Management",
+     "text": "We monitor comments, messages, and mentions — responding promptly to keep your audience engaged."
+    },
+    {
+     "title": "Reporting & Optimization",
+     "text": "Monthly performance reports with key metrics, insights, and recommendations for continuous improvement."
+    }
+   ]
+  },
+  {
+   "type": "numbered",
+   "title": "Why Social Media Marketing Matters for Your Business",
+   "items": [
+    {
+     "title": "Build Brand Awareness",
+     "text": "Get your business in front of thousands of potential customers consistently."
+    },
+    {
+     "title": "Stay Top of Mind",
+     "text": "Regular content keeps your brand visible and relevant to your audience."
+    },
+    {
+     "title": "Generate Leads",
+     "text": "Strategic content and ads drive qualified traffic and inquiries to your business."
+    },
+    {
+     "title": "Build Trust & Credibility",
+     "text": "An active, professional social presence builds confidence in your brand."
+    },
+    {
+     "title": "Engage Your Community",
+     "text": "Create genuine relationships with customers that drive loyalty and repeat business."
+    },
+    {
+     "title": "Cost-Effective Marketing",
+     "text": "Social media offers one of the highest ROI marketing channels available."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why True Line for Social Media Marketing",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Strategy-Led Approach",
+     "text": "We start with strategy, not content — every post serves a business purpose."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "UAE Market Expertise",
+     "text": "Deep understanding of the UAE audience, cultural nuances, and regional trends."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Creative Excellence",
+     "text": "A talented creative team that produces content your audience actually wants to engage with."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Data-Driven Decisions",
+     "text": "We track what works, drop what doesn't, and continuously optimize for better results."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Full-Service Capability",
+     "text": "Strategy, content, management, advertising, and reporting — all under one roof."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Transparent Reporting",
+     "text": "Clear monthly reports so you always know exactly what your investment is delivering."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Arabic & English Content",
+     "text": "Bilingual content capabilities for reaching both Arabic and English-speaking audiences."
+    }
+   ]
+  },
+  {
+   "type": "darkCards",
+   "title": "Social Media Marketing Across Industries",
+   "items": [
+    {
+     "icon": "fas fa-search",
+     "title": "Real Estate",
+     "text": "Property launches, project showcases, and lead generation campaigns."
+    },
+    {
+     "icon": "fas fa-drafting-compass",
+     "title": "Retail & E-Commerce",
+     "text": "Product launches, promotions, and shoppable social content."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "Food & Beverage",
+     "text": "Menu showcases, behind-the-scenes content, and offer campaigns."
+    },
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "Healthcare",
+     "text": "Educational content, awareness campaigns, and clinic promotion."
+    },
+    {
+     "icon": "fas fa-bolt",
+     "title": "Education",
+     "text": "Enrollment campaigns, student testimonials, and course content."
+    },
+    {
+     "icon": "fas fa-chart-line",
+     "title": "Hospitality",
+     "text": "Destination content, offers, and guest experience showcases."
+    },
+    {
+     "icon": "fas fa-drafting-compass",
+     "title": "Construction & Contracting",
+     "text": "Project portfolios, company culture, and B2B positioning."
+    },
+    {
+     "icon": "fas fa-search",
+     "title": "IT & Technology",
+     "text": "Thought leadership, product showcases, and service awareness."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/social-media-marketing-concept-marketing-with-applications-2-scaled.jpg",
+   "title": "Ready to Grow Your Brand on Social Media?",
+   "text": "Get a free social media audit from True Line and find out exactly where your brand stands — and how to take it further.",
+   "buttons": [
+    {
+     "label": "Get a Free Social Media Audit",
+     "href": "mailto:sales@truelinetechnologies.com"
+    },
+    {
+     "label": "View Our Packages",
+     "href": "#"
+    }
+   ]
+  }
+ ]
+}

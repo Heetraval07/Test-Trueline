@@ -1,0 +1,466 @@
+{
+ "slug": "meta-ads",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Meta Ads Management Services",
+   "subtitle": "Reach the Right People. At the Right Time. On the Right Platform.",
+   "paragraphs": [
+    "Facebook and Instagram are where millions of UAE residents spend hours every day. True Line's Meta Ads management puts your business in front of precisely targeted audiences — driving brand awareness, qualified leads, and real sales through the world's most powerful social advertising platform."
+   ],
+   "cta": {
+    "label": "Get a Free Meta Ads Audit",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/march-16-2022-brazil-this-photo-illustration-woman-holds-smartphone-with-instagram-logo-displayed-screen-with-meta-platforms-logo-displayed-background_68852-164.avif"
+  },
+  {
+   "type": "intro",
+   "title": "Meta Ads That Go Beyond Boosted Posts",
+   "paragraphs": [
+    "Hitting the boost button on a Facebook post is not a Meta Ads strategy. Real Meta advertising is a sophisticated, data-driven discipline that combines audience psychology, creative excellence, funnel strategy, and continuous optimization to deliver measurable business results.",
+    "Meta's advertising platform — covering Facebook, Instagram, Messenger, and the Audience Network — gives businesses access to one of the most powerful targeting engines ever built. With the ability to reach people by demographics, interests, behaviors, location, and life events, Meta Ads allow you to put your business directly in front of the people most likely to become your customers.",
+    "True Line's Meta Ads specialists build and manage campaigns that do far more than generate impressions. We build full-funnel strategies that take your audience from awareness to consideration to conversion — with creative that stops the scroll and targeting that puts it in front of the right people every time."
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What We Offer",
+   "title": "Our Meta Ads Services",
+   "items": [
+    {
+     "title": "Meta Ads Strategy",
+     "text": "A full-funnel advertising strategy built around your business goals, target audience, budget, and competitive landscape."
+    },
+    {
+     "title": "Campaign Setup & Management",
+     "text": "Professional campaign structure, objective selection, audience building, and ad setup — configured for performance from day one."
+    },
+    {
+     "title": "Creative Production",
+     "text": "Scroll-stopping ad creatives — static images, carousels, videos, and reels — designed and produced to drive clicks and conversions."
+    },
+    {
+     "title": "Audience Research & Targeting",
+     "text": "Deep audience research and precise targeting using interest, behavioral, demographic, lookalike, and custom audiences."
+    },
+    {
+     "title": "Retargeting Campaigns",
+     "text": "Re-engage website visitors, video viewers, and past customers with tailored ads that bring them back to convert."
+    },
+    {
+     "title": "Lead Generation Campaigns",
+     "text": "Facebook and Instagram lead forms that capture qualified inquiries directly within the platform — no landing page required."
+    },
+    {
+     "title": "E-Commerce & Catalog Ads",
+     "text": "Dynamic product ads connected to your product catalog — automatically showing the right products to the right shoppers."
+    },
+    {
+     "title": "Meta Ads Audit & Optimization",
+     "text": "In-depth audit of existing campaigns to identify wasted spend, creative fatigue, and performance improvement opportunities."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "What's Included",
+   "title": "What's Included in Our Meta Ads Management",
+   "lead": "Everything your campaigns need — from pixel to performance.",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Meta Pixel & Conversion API Setup",
+     "text": "Correct installation and configuration of Meta Pixel and Conversion API for accurate tracking and optimization."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Custom & Lookalike Audiences",
+     "text": "Building powerful audiences from your customer data, website visitors, and social engagements to find more of your best customers."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Campaign & Ad Set Structure",
+     "text": "A clean, scalable campaign structure that makes testing, optimization, and scaling straightforward."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Ad Copywriting",
+     "text": "Compelling ad copy tailored to each audience, placement, and funnel stage — written to drive action."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Creative Design & Video",
+     "text": "On-brand static ads, carousels, story ads, and video content produced specifically for Meta placements."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "A/B Testing",
+     "text": "Systematic testing of creatives, audiences, copy, and offers to continuously improve performance."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Budget Management",
+     "text": "Smart budget allocation across campaigns and ad sets — maximizing results within your monthly spend."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Bid Strategy Optimization",
+     "text": "Continuous bid adjustments aligned with your campaign objectives and cost targets."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Monthly Reporting",
+     "text": "Clear performance reports covering reach, impressions, clicks, leads, conversions, cost per result, and ROAS."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Creative Refresh",
+     "text": "Regular creative updates to combat ad fatigue and maintain strong performance over time."
+    }
+   ]
+  },
+  {
+   "type": "benefitCards",
+   "title": "What We Can Achieve With Meta Ads",
+   "items": [
+    {
+     "icon": "fas fa-bullhorn",
+     "title": "Brand Awareness",
+     "text": "Maximize your brand's reach and visibility among your target audience in the UAE and beyond."
+    },
+    {
+     "icon": "fas fa-globe",
+     "title": "Website Traffic",
+     "text": "Drive high volumes of relevant visitors to your website, landing pages, or online store."
+    },
+    {
+     "icon": "fas fa-user-plus",
+     "title": "Lead Generation",
+     "text": "Capture qualified leads directly through Facebook and Instagram lead forms or your website."
+    },
+    {
+     "icon": "fas fa-cart-shopping",
+     "title": "Sales & Conversions",
+     "text": "Drive purchases, bookings, sign-ups, and other high-value actions from targeted audiences."
+    },
+    {
+     "icon": "fas fa-mobile-screen-button",
+     "title": "App Installs",
+     "text": "Promote your mobile app to relevant audiences and drive downloads at an efficient cost."
+    },
+    {
+     "icon": "fas fa-circle-play",
+     "title": "Video Views",
+     "text": "Build brand awareness and audience engagement through cost-effective video view campaigns."
+    },
+    {
+     "icon": "fas fa-thumbs-up",
+     "title": "Engagement",
+     "text": "Grow page likes, post engagement, event responses, and community interaction."
+    },
+    {
+     "icon": "fas fa-rotate-left",
+     "title": "Retargeting",
+     "text": "Bring back warm audiences — website visitors, video viewers, and past customers — and convert them."
+    }
+   ]
+  },
+  {
+   "type": "platforms",
+   "title": "Our Full-Funnel Meta Ads Approach",
+   "lead": "We don't just run ads — we build a complete customer acquisition funnel.",
+   "items": [
+    {
+     "title": "Top of Funnel — Awareness",
+     "text": "Reaching new, cold audiences who don't yet know your brand. We use broad interest targeting, lookalike audiences, and engaging video or image content to introduce your business to the right people.",
+     "bestFor": "Reach, Brand Awareness, Video Views"
+    },
+    {
+     "title": "Middle of Funnel — Consideration",
+     "text": "Nurturing people who have shown interest — website visitors, video viewers, and social engagers. We serve them more detailed content, testimonials, and offers to build trust and move them closer to a decision.",
+     "bestFor": "Traffic, Engagement, Lead Generation"
+    },
+    {
+     "title": "Bottom of Funnel — Conversion",
+     "text": "Targeting warm, high-intent audiences who are ready to act. Retargeting campaigns with strong calls to action, limited-time offers, and social proof to convert interest into customers.",
+     "bestFor": "Conversions, Lead Forms, Catalog Sales"
+    },
+    {
+     "title": "Retention — Loyalty & Repeat Business",
+     "text": "Re-engaging existing customers with new offers, product launches, and loyalty campaigns to drive repeat purchases and lifetime value.",
+     "bestFor": "Conversions, Engagement, Catalog Sales"
+    }
+   ]
+  },
+  {
+   "type": "models",
+   "tag": "Ad Formats",
+   "title": "Ad Formats We Create & Manage",
+   "items": [
+    {
+     "icon": "fas fa-building",
+     "title": "Single Image Ads",
+     "text": "Clean, impactful static ads optimized for feed placements — ideal for product showcases and brand awareness."
+    },
+    {
+     "icon": "fas fa-users",
+     "title": "Carousel Ads",
+     "text": "Multi-card ads showcasing multiple products, features, or steps — great for e-commerce and storytelling."
+    },
+    {
+     "icon": "fas fa-headset",
+     "title": "Video Ads",
+     "text": "Engaging video content from short reels to longer brand stories — the highest-performing format on Meta."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "Reel Ads",
+     "text": "Short-form vertical video ads placed within Instagram and Facebook Reels — reaching highly engaged audiences."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "Story Ads",
+     "text": "Full-screen vertical ads in Instagram and Facebook Stories — immersive, high-visibility placements."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "Lead Form Ads",
+     "text": "Instant experience forms that capture name, phone, email, and custom questions — without leaving the app."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "Collection Ads",
+     "text": "Mobile-first ads combining a cover image or video with a product catalog — ideal for e-commerce."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "Dynamic Product Ads",
+     "text": "Automated ads that show each user the most relevant products from your catalog based on their browsing behavior."
+    }
+   ]
+  },
+  {
+   "type": "process",
+   "tag": "Our Process",
+   "title": "How We Manage Your Meta Ads",
+   "steps": [
+    {
+     "title": "Discovery & Strategy",
+     "text": "We learn about your business, audience, competitors, and goals to build a targeted Meta Ads strategy."
+    },
+    {
+     "title": "Account & Pixel Audit",
+     "text": "For existing accounts, we audit campaigns, pixel setup, audiences, and creative to identify issues and opportunities."
+    },
+    {
+     "title": "Audience & Creative Planning",
+     "text": "We build your target audiences and plan creative concepts for each funnel stage."
+    },
+    {
+     "title": "Creative Production",
+     "text": "Our design team produces all ad creatives — images, carousels, and videos — ready for launch."
+    },
+    {
+     "title": "Campaign Build & Launch",
+     "text": "Campaigns are structured, configured, and launched with proper tracking and optimization settings."
+    },
+    {
+     "title": "Monitoring & Early Optimization",
+     "text": "Campaigns are closely monitored in the early days — catching issues quickly and making rapid adjustments."
+    },
+    {
+     "title": "Ongoing Optimization",
+     "text": "Regular creative refreshes, audience expansions, budget adjustments, and A/B tests to continuously improve results."
+    },
+    {
+     "title": "Reporting & Review",
+     "text": "Monthly performance reports with clear metrics, insights, and strategy recommendations."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Meta Ads",
+   "title": "Why Meta Ads for Your Business",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Massive Reach",
+     "text": "Facebook and Instagram combined reach over 10 million users in the UAE alone."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Unmatched Targeting",
+     "text": "Target by age, location, interests, behaviors, job title, life events, and more."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Visual Storytelling",
+     "text": "Rich creative formats — video, carousel, stories, and reels — to showcase your brand compellingly."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Cost-Effective",
+     "text": "One of the most affordable advertising platforms for reaching large, targeted audiences."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Full-Funnel Capability",
+     "text": "Run awareness, consideration, and conversion campaigns all within one platform."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Powerful Retargeting",
+     "text": "Re-engage website visitors, app users, and past customers with surgical precision."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "E-Commerce Ready",
+     "text": "Dynamic product ads and catalog integration drive direct product sales at scale."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Measurable Results",
+     "text": "Track every impression, click, lead, and sale back to specific campaigns and creatives."
+    }
+   ]
+  },
+  {
+   "type": "numbered",
+   "title": "Why True Line for Meta Ads",
+   "items": [
+    {
+     "title": "Certified Meta Advertising Specialists",
+     "text": "A qualified team with deep hands-on experience managing Meta campaigns across budgets and industries."
+    },
+    {
+     "title": "Creative & Strategy Combined",
+     "text": "We handle both the strategic planning and the creative production — no briefing external designers."
+    },
+    {
+     "title": "Full-Funnel Thinking",
+     "text": "We build complete customer acquisition funnels, not just individual campaigns."
+    },
+    {
+     "title": "Pixel-Perfect Tracking",
+     "text": "Correct Meta Pixel and Conversion API setup ensures accurate data and better optimization."
+    },
+    {
+     "title": "UAE Market Expertise",
+     "text": "Deep understanding of the UAE social media landscape, audience behavior, and cultural nuances."
+    },
+    {
+     "title": "Arabic & English Creatives",
+     "text": "Bilingual ad creatives to reach both Arabic and English-speaking audiences effectively."
+    },
+    {
+     "title": "Transparent Reporting",
+     "text": "Clear, honest reports showing exactly what your budget is delivering."
+    },
+    {
+     "title": "No Long-Term Lock-In",
+     "text": "Flexible engagements with monthly reviews — we earn your trust every month."
+    }
+   ]
+  },
+  {
+   "type": "darkCards",
+   "title": "Meta Ads Across Industries",
+   "items": [
+    {
+     "icon": "fas fa-search",
+     "title": "Real Estate",
+     "text": "Property launch campaigns, off-plan inquiries, and investor targeting."
+    },
+    {
+     "icon": "fas fa-drafting-compass",
+     "title": "Retail & E-Commerce",
+     "text": "Product catalog ads, seasonal promotions, and shopping campaigns."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "Food & Beverage",
+     "text": "Restaurant promotions, delivery offers, and new menu launches."
+    },
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "Healthcare & Clinics",
+     "text": "Appointment booking campaigns and health awareness ads."
+    },
+    {
+     "icon": "fas fa-bolt",
+     "title": "Education & Training",
+     "text": "Course enrollment campaigns targeting students and working professionals."
+    },
+    {
+     "icon": "fas fa-chart-line",
+     "title": "Hospitality",
+     "text": "Hotel promotions, staycation offers, and tourist targeting."
+    },
+    {
+     "icon": "fas fa-search",
+     "title": "IT & Technology",
+     "text": "B2B lead generation and brand awareness for IT services."
+    },
+    {
+     "icon": "fas fa-drafting-compass",
+     "title": "Fitness & Wellness",
+     "text": "Membership campaigns, class promotions, and wellness brand building."
+    },
+    {
+     "icon": "fas fa-drafting-compass",
+     "title": "Fashion & Beauty",
+     "text": "Visual brand campaigns, product launches, and influencer collaboration amplification."
+    }
+   ]
+  },
+  {
+   "type": "faq",
+   "title": "Frequently Asked Questions",
+   "items": [
+    {
+     "q": "How is Meta Ads different from boosting posts?",
+     "a": "Boosting posts is a basic, limited form of promotion. Meta Ads through Ads Manager gives access to full campaign objectives, precise audience targeting, proper conversion tracking, A/B testing, and detailed analytics — delivering far superior results at comparable or lower cost."
+    },
+    {
+     "q": "How much should I spend on Meta Ads?",
+     "a": "Budget depends on your goals, industry, and audience size. Most UAE businesses see strong results starting from AED 3,000–5,000 per month in ad spend. We help you determine the right budget and scale it as results improve."
+    },
+    {
+     "q": "How long before I see results?",
+     "a": "Lead and conversion campaigns typically show early results within the first 2–4 weeks. For full optimization, allow 60–90 days as Meta's algorithm learns and campaigns are refined."
+    },
+    {
+     "q": "Do you create the ad creatives?",
+     "a": "Yes — our in-house creative team produces all ad visuals, videos, and copy as part of our management service."
+    },
+    {
+     "q": "Can you manage both Facebook and Instagram together?",
+     "a": "Yes — Meta Ads Manager manages both platforms simultaneously. We optimize placements across Facebook, Instagram, Messenger, and the Audience Network within every campaign."
+    },
+    {
+     "q": "Can you take over existing campaigns?",
+     "a": "Absolutely. We audit your existing account, identify performance issues, and take over full management — typically improving results significantly from the first month."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/side-view-man-holding-smartphone-1-scaled.jpg",
+   "title": "Ready to Turn Scrollers Into Customers?",
+   "text": "Get a free Meta Ads audit from True Line and find out exactly how your campaigns are performing — and how much better they could be with the right strategy and creative.",
+   "buttons": [
+    {
+     "label": "Get a Free Meta Ads Audit",
+     "href": "mailto:sales@truelinetechnologies.com"
+    },
+    {
+     "label": "Talk to a Meta Ads Specialist",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

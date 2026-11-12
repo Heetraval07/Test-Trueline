@@ -1,0 +1,329 @@
+{
+ "slug": "erpnext",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "ERPNext Implementation & Customizations",
+   "subtitle": "The World's Best Open-Source ERP. Implemented the Right Way.",
+   "paragraphs": [
+    "Transform how your business operates with ERPNext — the powerful, flexible, and cost-effective ERP platform built for growing businesses. True Line delivers end-to-end ERPNext implementation, deep customization, and long-term support so you get an ERP that truly fits your business."
+   ],
+   "cta": {
+    "label": "Book a Free ERP Consultation",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/isometric-erp-illustration_52683-84174.avif"
+  },
+  {
+   "type": "intro",
+   "title": "An ERP That Works the Way You Do",
+   "paragraphs": [
+    "Every business is unique — and your ERP should reflect that. Generic, out-of-the-box ERP systems often force businesses to change how they work to fit the software. That's backwards.",
+    "True Line implements and customizes ERPNext to fit your workflows, your processes, and your business logic — not the other way around. With deep expertise in Frappe and ERPNext development, we go far beyond standard implementations. From module configuration and data migration to complex custom DocTypes, integrations, and print formats, we build an ERP that becomes the operational backbone of your business.",
+    "Whether you're implementing ERPNext for the first time, migrating from another ERP, or looking to extend an existing setup, True Line has the expertise to make it work — cleanly, reliably, and at a scale that grows with you."
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What We Offer",
+   "title": "Our ERPNext Services",
+   "items": [
+    {
+     "title": "ERPNext Implementation",
+     "text": "End-to-end implementation across all core modules — from requirements gathering and system design to go-live and training."
+    },
+    {
+     "title": "ERPNext Customization",
+     "text": "Custom DocTypes, fields, workflows, scripts, and reports built around your exact business processes."
+    },
+    {
+     "title": "Data Migration",
+     "text": "Clean, accurate migration of your existing data — customers, suppliers, items, transactions, and opening balances."
+    },
+    {
+     "title": "Module Configuration",
+     "text": "Setup and configuration of all standard ERPNext modules aligned with your business workflows."
+    },
+    {
+     "title": "Custom Print Formats",
+     "text": "Professional, branded PDF print formats for invoices, purchase orders, delivery notes, and more."
+    },
+    {
+     "title": "Third-Party Integrations",
+     "text": "Connect ERPNext with WhatsApp, payment gateways, e-commerce platforms, and external APIs."
+    },
+    {
+     "title": "ERPNext Upgrades",
+     "text": "Safe, tested upgrades to the latest ERPNext versions with minimal downtime and full regression testing."
+    },
+    {
+     "title": "Ongoing Support & AMC",
+     "text": "Post-go-live support, bug fixes, enhancements, and annual maintenance contracts."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Modules We Implement",
+   "title": "ERPNext Modules We Implement",
+   "lead": "Full-spectrum ERPNext coverage across every business function.",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Accounting & Finance",
+     "text": "Chart of accounts, invoicing, payments, bank reconciliation, budgeting, and financial reports."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Sales & CRM",
+     "text": "Leads, opportunities, quotations, sales orders, and customer management."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Purchase & Procurement",
+     "text": "Supplier management, purchase orders, purchase invoices, and procurement workflows."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Project Management",
+     "text": "Project planning, tasks, timesheets, and project costing."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Assets",
+     "text": "Asset registration, depreciation, maintenance, and disposal tracking."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Inventory & Warehouse",
+     "text": "Stock management, item master, warehouse transfers, serial and batch tracking."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Manufacturing",
+     "text": "BOM, work orders, production planning, job cards, and material requirements planning."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "HR & Payroll",
+     "text": "Employee management, leave, attendance, payroll processing, and salary slips."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Point of Sale (POS)",
+     "text": "Retail POS for single and multi-outlet businesses with offline capability."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Website & E-Commerce",
+     "text": "ERPNext-powered product catalog, shopping cart, and order management."
+    }
+   ]
+  },
+  {
+   "type": "process",
+   "tag": "How We Implement",
+   "title": "How We Implement ERPNext",
+   "steps": [
+    {
+     "title": "Discovery & Requirements",
+     "text": "We conduct deep-dive sessions with your team to understand processes, pain points, and goals."
+    },
+    {
+     "title": "System Design",
+     "text": "We map your workflows to ERPNext, identifying standard configurations and customization requirements."
+    },
+    {
+     "title": "Configuration & Development",
+     "text": "Modules are configured, custom features are developed, and print formats are built to your spec."
+    },
+    {
+     "title": "Data Migration",
+     "text": "Your existing data is cleaned, mapped, and migrated accurately into ERPNext."
+    },
+    {
+     "title": "Testing & UAT",
+     "text": "We run thorough testing alongside your team to validate every process before go-live."
+    },
+    {
+     "title": "Training",
+     "text": "Role-based training sessions for your team — from end-users to administrators."
+    },
+    {
+     "title": "Go-Live",
+     "text": "A structured go-live plan with our team on-hand to ensure a smooth transition."
+    },
+    {
+     "title": "Post Go-Live Support",
+     "text": "Ongoing support, issue resolution, and iterative improvements after launch."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why ERPNext",
+   "title": "Why Businesses Choose ERPNext",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Open Source & Cost-Effective",
+     "text": "No per-user licensing fees — a powerful ERP at a fraction of the cost of SAP or Oracle."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Fully Integrated",
+     "text": "Accounting, sales, purchasing, inventory, HR, and more — all in one connected platform."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Highly Customizable",
+     "text": "Built on the Frappe framework, ERPNext can be tailored to virtually any business process."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Cloud & On-Premise",
+     "text": "Deploy on the cloud, your own server, or a hybrid setup."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Modern & Mobile-Friendly",
+     "text": "A clean, intuitive interface that works on any device."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Active Global Community",
+     "text": "Backed by a large open-source community and Frappe Technologies."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "UAE-Ready",
+     "text": "VAT compliance, Arabic language support, and UAE-specific configurations built in."
+    }
+   ]
+  },
+  {
+   "type": "darkCards",
+   "title": "ERPNext for Your Industry",
+   "items": [
+    {
+     "icon": "fas fa-warehouse",
+     "title": "Trading & Distribution",
+     "text": "Multi-warehouse inventory, purchase and sales workflows, and supplier and customer management."
+    },
+    {
+     "icon": "fas fa-industry",
+     "title": "Manufacturing",
+     "text": "Production planning, BOM management, work orders, and shop floor tracking."
+    },
+    {
+     "icon": "fas fa-hard-hat",
+     "title": "Construction & Contracting",
+     "text": "Project costing, subcontractor management, material tracking, and progress billing."
+    },
+    {
+     "icon": "fas fa-store",
+     "title": "Retail & E-Commerce",
+     "text": "POS, inventory, online store, and customer loyalty — all connected."
+    },
+    {
+     "icon": "fas fa-user-tie",
+     "title": "Services & Consulting",
+     "text": "Project management, timesheets, billing, and resource planning."
+    },
+    {
+     "icon": "fas fa-city",
+     "title": "Real Estate",
+     "text": "Property management, lease tracking, collections, and maintenance workflows."
+    },
+    {
+     "icon": "fas fa-truck-fast",
+     "title": "Logistics & Freight",
+     "text": "Shipment tracking, job costing, invoicing, and vendor management."
+    },
+    {
+     "icon": "fas fa-utensils",
+     "title": "Food & Beverage",
+     "text": "Recipe management, batch production, expiry tracking, and multi-outlet POS."
+    }
+   ]
+  },
+  {
+   "type": "numbered",
+   "title": "Why True Line for ERPNext",
+   "items": [
+    {
+     "title": "Deep ERPNext Expertise",
+     "text": "Years of hands-on experience implementing and customizing ERPNext across diverse industries."
+    },
+    {
+     "title": "Frappe-Certified Developers",
+     "text": "A skilled development team fluent in Frappe, Python, and JavaScript for deep customizations."
+    },
+    {
+     "title": "Business-First Approach",
+     "text": "We understand business processes first — technology comes second."
+    },
+    {
+     "title": "UAE & GCC Experience",
+     "text": "VAT, e-invoicing, Arabic print formats, and UAE-specific compliance built into every implementation."
+    },
+    {
+     "title": "End-to-End Capability",
+     "text": "From discovery and design to go-live, training, and long-term support."
+    },
+    {
+     "title": "Transparent Delivery",
+     "text": "Phased project plans, clear milestones, and honest communication throughout."
+    },
+    {
+     "title": "Post Go-Live Partnership",
+     "text": "We stay with you after launch — supporting, enhancing, and evolving your ERP as your business grows."
+    }
+   ]
+  },
+  {
+   "type": "cards",
+   "title": "What Makes Our ERPNext Implementations Different",
+   "bg": "light",
+   "items": [
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "We Don't Just Configure — We Customize",
+     "text": "Most implementers stick to standard modules. True Line goes deeper — building custom DocTypes, workflows, scripts, and integrations that match your exact processes."
+    },
+    {
+     "icon": "fas fa-tools",
+     "title": "We Know Your Industry",
+     "text": "From NVOCC and container trading to manufacturing, retail, and construction — we bring industry-specific knowledge to every project."
+    },
+    {
+     "icon": "fas fa-headset",
+     "title": "We Build for the Long Term",
+     "text": "Clean code, proper documentation, and scalable architecture mean your ERPNext grows with your business — not against it."
+    },
+    {
+     "icon": "fas fa-cogs",
+     "title": "We Work as Partners, Not Vendors",
+     "text": "We invest in understanding your business deeply. Your success is our success."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/standard-quality-control-concept-m-1-scaled.jpg",
+   "title": "Ready to Transform Your Business with ERPNext?",
+   "text": "Get a free consultation with True Line's ERPNext experts. We'll assess your requirements, walk you through the platform, and show you exactly how ERPNext can work for your business.",
+   "buttons": [
+    {
+     "label": "Book a Free ERP Consultation",
+     "href": "tel:+971547658506"
+    },
+    {
+     "label": "View Our ERPNext Case Studies",
+     "href": "#"
+    }
+   ]
+  }
+ ]
+}

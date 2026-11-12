@@ -1,0 +1,410 @@
+{
+ "slug": "odoo",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Odoo Implementation & Customizations",
+   "subtitle": "One Platform. Every Business Function. Built for Growth.",
+   "paragraphs": [
+    "Odoo is one of the world's most complete and flexible business management platforms — covering everything from accounting and sales to manufacturing, HR, and e-commerce. True Line delivers professional Odoo implementation, deep customization, and ongoing support so your business runs smarter, faster, and more connected."
+   ],
+   "cta": {
+    "label": "Book a Free Odoo Consultation",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/Odoo_logo_rgb.svg_.png"
+  },
+  {
+   "type": "intro",
+   "title": "Odoo, Tailored to the Way You Work",
+   "paragraphs": [
+    "Running a business means juggling multiple systems — accounting software here, a CRM there, inventory in a spreadsheet, and HR in yet another tool. The result is disconnected data, manual work, and costly inefficiencies.",
+    "Odoo brings everything together in one integrated platform. With over 80 official modules and a powerful customization framework, Odoo can be configured and extended to fit virtually any business — from a small trading company to a multi-branch enterprise.",
+    "True Line helps businesses across the UAE and the Middle East plan, implement, and customize Odoo to match their exact processes. Our team combines deep technical expertise with real business understanding — so you get an Odoo implementation that's not just installed, but truly adopted, integrated, and delivering value from day one"
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What We Offer",
+   "title": "Our Odoo Services",
+   "items": [
+    {
+     "title": "Odoo Implementation",
+     "text": "End-to-end Odoo implementation covering requirements gathering, system design, configuration, and go-live."
+    },
+    {
+     "title": "Odoo Customization",
+     "text": "Custom modules, fields, workflows, and business logic built on Odoo's development framework."
+    },
+    {
+     "title": "Data Migration",
+     "text": "Accurate migration of customers, suppliers, products, transactions, and opening balances from your existing system."
+    },
+    {
+     "title": "Module Configuration",
+     "text": "Setup and configuration of all standard Odoo apps aligned with your business workflows."
+    },
+    {
+     "title": "Custom Reports & Dashboards",
+     "text": "Tailored reports, KPI dashboards, and analytics built around your business metrics."
+    },
+    {
+     "title": "Third-Party Integrations",
+     "text": "Connect Odoo with payment gateways, e-commerce platforms, WhatsApp, logistics systems, and external APIs."
+    },
+    {
+     "title": "Odoo Upgrades & Migration",
+     "text": "Safe, tested upgrades to newer Odoo versions with full data integrity and minimal downtime."
+    },
+    {
+     "title": "Ongoing Support & AMC",
+     "text": "Post-go-live support, enhancements, bug fixes, and annual maintenance contracts."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Modules We Implement",
+   "title": "Odoo Modules We Implement",
+   "lead": "Complete Odoo coverage across every business function.",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Accounting & Finance",
+     "text": "Invoicing, payments, bank reconciliation, multi-currency, budgeting, and financial reporting."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Sales & CRM",
+     "text": "Lead management, pipeline tracking, quotations, sales orders, and customer communication."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Purchase & Procurement",
+     "text": "Vendor management, RFQs, purchase orders, receipts, and procurement workflows."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Inventory & Warehouse",
+     "text": "Multi-warehouse management, stock moves, serial and lot tracking, and reordering rules."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Manufacturing",
+     "text": "Bill of materials, work orders, production planning, quality control, and shop floor management."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "HR & Payroll",
+     "text": "Employee records, contracts, leave management, attendance, payroll, and expense claims."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Project Management",
+     "text": "Project planning, task management, timesheets, milestones, and project billing."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Point of Sale (POS)",
+     "text": "Retail and restaurant POS with offline mode, loyalty programs, and session management."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "E-Commerce & Website",
+     "text": "Odoo-powered online store, product catalog, shopping cart, and CMS."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Field Service",
+     "text": "Work order management, scheduling, technician dispatch, and on-site service tracking."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Helpdesk & Ticketing",
+     "text": "Customer support ticketing, SLA management, and escalation workflows."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Fleet Management",
+     "text": "Vehicle tracking, service scheduling, fuel management, and driver records."
+    }
+   ]
+  },
+  {
+   "type": "process",
+   "tag": "How We Implement",
+   "title": "How We Implement Odoo",
+   "steps": [
+    {
+     "title": "Discovery & Requirements",
+     "text": "We conduct detailed sessions with your team to understand your processes, pain points, and business goals."
+    },
+    {
+     "title": "Gap Analysis & Solution Design",
+     "text": "We map your workflows to Odoo, identifying what works out of the box and what needs customization."
+    },
+    {
+     "title": "Configuration & Development",
+     "text": "Modules are configured, custom features are developed, and integrations are built to your specification."
+    },
+    {
+     "title": "Data Migration",
+     "text": "Your existing data is cleaned, validated, and migrated accurately into your new Odoo environment."
+    },
+    {
+     "title": "Testing & UAT",
+     "text": "We run thorough testing alongside your team to validate every workflow and process before go-live."
+    },
+    {
+     "title": "Training",
+     "text": "Role-based training for end-users, managers, and administrators to drive fast adoption."
+    },
+    {
+     "title": "Go-Live",
+     "text": "A structured go-live plan with our team on standby to ensure a smooth, confident launch."
+    },
+    {
+     "title": "Post Go-Live Support",
+     "text": "Ongoing support, issue resolution, and continuous improvements after launch."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Odoo",
+   "title": "Why Businesses Choose Odoo",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "All-in-One Platform",
+     "text": "Over 80 integrated apps covering every business function — no more disconnected tools."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Modular & Scalable",
+     "text": "Start with what you need and add modules as your business grows."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Highly Customizable",
+     "text": "Odoo's open framework allows virtually unlimited customization to fit your processes."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Affordable Licensing",
+     "text": "Competitive per-user pricing with Community and Enterprise editions to fit every budget."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Modern Interface",
+     "text": "Clean, intuitive, and mobile-friendly — your team will actually enjoy using it."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Cloud & On-Premise",
+     "text": "Deploy on Odoo.com, your own cloud, or an on-premise server"
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Large Global Community",
+     "text": "Backed by Odoo SA and a vast network of developers and partners worldwide."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "UAE-Ready",
+     "text": "VAT compliance, Arabic interface, and UAE-specific accounting configurations built in."
+    }
+   ]
+  },
+  {
+   "type": "benefitCards",
+   "tag": "Editions",
+   "title": "Which Odoo Edition is Right for You?",
+   "items": [
+    {
+     "icon": "fas fa-coins",
+     "title": "Odoo Community",
+     "text": "The free, open-source edition — ideal for businesses with technical resources looking for a cost-effective starting point. Core modules included, with community support."
+    },
+    {
+     "icon": "fas fa-expand-arrows-alt",
+     "title": "Odoo Enterprise",
+     "text": "The full-featured, officially supported edition with advanced modules, mobile apps, cloud hosting, and Odoo's direct support. Ideal for growing and established businesses."
+    },
+    {
+     "icon": "fas fa-globe",
+     "title": "Odoo Online (SaaS)",
+     "text": "Hosted by Odoo on their cloud — the simplest deployment option with automatic updates and no infrastructure to manage"
+    },
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "True Line's Recommendation",
+     "text": "We help you evaluate your requirements, budget, and technical capacity to choose the edition that delivers the best value for your business — with no upsell bias."
+    }
+   ]
+  },
+  {
+   "type": "darkCards",
+   "title": "Odoo for Your Industry",
+   "items": [
+    {
+     "icon": "fas fa-warehouse",
+     "title": "Trading & Distribution",
+     "text": "Multi-warehouse inventory, pricing rules, purchase and sales workflows, and supplier and customer portals."
+    },
+    {
+     "icon": "fas fa-industry",
+     "title": "Manufacturing",
+     "text": "Full production management from BOM and work orders to quality control and shop floor tracking."
+    },
+    {
+     "icon": "fas fa-store",
+     "title": "Retail & E-Commerce",
+     "text": "POS, online store, inventory, and customer loyalty — fully connected in one platform."
+    },
+    {
+     "icon": "fas fa-hard-hat",
+     "title": "Construction & Contracting",
+     "text": "Project costing, subcontractor billing, material tracking, and progress invoicing."
+    },
+    {
+     "icon": "fas fa-user-tie",
+     "title": "Services & Consulting",
+     "text": "Timesheets, project billing, resource management, and CRM in one connected workflow."
+    },
+    {
+     "icon": "fas fa-city",
+     "title": "Real Estate",
+     "text": "Property listings, lease management, collections, maintenance, and customer communication."
+    },
+    {
+     "icon": "fas fa-truck-fast",
+     "title": "Logistics & Freight",
+     "text": "Job management, shipment tracking, vendor billing, and customer invoicing."
+    },
+    {
+     "icon": "fas fa-utensils",
+     "title": "Food & Beverage",
+     "text": "Recipe management, kitchen operations, batch production, expiry tracking, and multi-outlet POS."
+    },
+    {
+     "icon": "fas fa-hospital",
+     "title": "Healthcare",
+     "text": "Patient management, appointment scheduling, billing, and inventory for clinics and hospitals."
+    }
+   ]
+  },
+  {
+   "type": "numbered",
+   "title": "Why True Line for Odoo",
+   "items": [
+    {
+     "title": "Proven Odoo Expertise",
+     "text": "Hands-on experience implementing and customizing Odoo across multiple industries in the UAE and the Middle East."
+    },
+    {
+     "title": "Technical Depth",
+     "text": "A skilled development team experienced in Odoo's Python and OWL framework for deep, clean customizations."
+    },
+    {
+     "title": "Business-First Thinking",
+     "text": "We understand your business processes before we touch the system — technology follows strategy."
+    },
+    {
+     "title": "UAE & GCC Ready",
+     "text": "VAT, e-invoicing, Arabic language support, and UAE-specific compliance built into every implementation."
+    },
+    {
+     "title": "Full Project Ownership",
+     "text": "From discovery and design to go-live, training, and long-term support — we own the entire journey."
+    },
+    {
+     "title": "Transparent & Collaborative",
+     "text": "Phased delivery, clear milestones, honest communication, and no surprises."
+    },
+    {
+     "title": "Long-Term Partnership",
+     "text": "We stay with you after go-live — supporting, enhancing, and evolving your Odoo as your business grows."
+    }
+   ]
+  },
+  {
+   "type": "comparison",
+   "title": "ERPNext vs Odoo — Which Is Right for You?",
+   "lead": "True Line implements both. We help you choose the right fit — not the one we prefer.",
+   "columns": [
+    "ERPNext",
+    "Odoo"
+   ],
+   "rows": [
+    {
+     "feature": "Licensing",
+     "values": [
+      "Fully open source, free",
+      "Community (free) + Enterprise (paid)"
+     ]
+    },
+    {
+     "feature": "Customization",
+     "values": [
+      "Deep, developer-friendly",
+      "Extensive, large module ecosystem"
+     ]
+    },
+    {
+     "feature": "Best For",
+     "values": [
+      "SMEs, cost-sensitive businesses",
+      "SMEs to mid-market, module-heavy needs"
+     ]
+    },
+    {
+     "feature": "UI/UX",
+     "values": [
+      "Clean, modern",
+      "Polished, highly intuitive"
+     ]
+    },
+    {
+     "feature": "Support",
+     "values": [
+      "Community + partner network",
+      "Odoo SA + partner network"
+     ]
+    },
+    {
+     "feature": "UAE Compliance",
+     "values": [
+      "Built-in VAT & Arabic support",
+      "VAT & Arabic support available"
+     ]
+    },
+    {
+     "feature": "Hosting",
+     "values": [
+      "Cloud or on-premise",
+      "Cloud (SaaS) or on-premise"
+     ]
+    }
+   ],
+   "note": "Both are excellent platforms. The right choice depends on your industry, budget, team size, and long-term roadmap. Talk to our team — we'll give you an honest recommendation."
+  },
+  {
+   "type": "cta",
+   "image": "/images/1746249121949.jpg",
+   "title": "Ready to Run Your Entire Business on One Platform?",
+   "text": "Get a free Odoo consultation from True Line's experts. We'll walk you through the platform, assess your requirements, and show you exactly how Odoo can transform your business operations.",
+   "buttons": [
+    {
+     "label": "Book a Free Odoo Consultation",
+     "href": "tel:+971547658506"
+    },
+    {
+     "label": "Compare ERPNext vs Odoo",
+     "href": "/erpnext"
+    }
+   ]
+  }
+ ]
+}

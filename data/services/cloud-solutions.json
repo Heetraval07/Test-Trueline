@@ -1,0 +1,161 @@
+{
+ "slug": "cloud-solutions",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "Cloud Solutions",
+   "subtitle": "Scale Smarter. Work Faster. Stay Secure.",
+   "paragraphs": [
+    "The cloud changes how businesses operate — when it's done right. True Line delivers end-to-end cloud solutions that help you migrate, modernize, and manage your IT in the cloud with confidence, security, and measurable results."
+   ],
+   "cta": {
+    "label": "Book a Free Cloud Consultation",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/saas-concept-collage_23-2149399281.avif"
+  },
+  {
+   "type": "intro",
+   "title": "Cloud, Built Around Your Business",
+   "paragraphs": [
+    "Moving to the cloud is one of the most important decisions a business can make — but doing it right takes more than just picking a provider. The wrong choices in architecture, security, or cost planning can quickly turn the cloud from an opportunity into an expensive headache.",
+    "True Line helps businesses across the UAE plan, build, and run cloud environments that actually deliver value. Whether you're considering your first cloud migration, optimizing an existing setup, or building a hybrid environment, our certified team brings the strategy, technical depth, and ongoing support you need to succeed in the cloud./p>"
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What We Offer",
+   "title": "Our Cloud Solutions",
+   "items": [
+    {
+     "icon": "fab fa-microsoft",
+     "title": "Microsoft Azure",
+     "text": "Plan, deploy, and manage enterprise-grade infrastructure and services on Azure."
+    },
+    {
+     "icon": "fas fa-envelope",
+     "title": "Microsoft 365",
+     "text": "Email, Teams, SharePoint, and productivity tools — deployed and managed the right way."
+    },
+    {
+     "icon": "fas fa-cloud-upload-alt",
+     "title": "Cloud Migration",
+     "text": "Smooth, low-risk migration of servers, applications, and workloads to the cloud."
+    },
+    {
+     "icon": "fas fa-chart-line",
+     "title": "Cloud Optimization",
+     "text": "Reduce cloud costs, boost performance, and tighten security across your environment."
+    },
+    {
+     "icon": "fas fa-project-diagram",
+     "title": "Hybrid Cloud",
+     "text": "Connect on-premise systems with cloud services for a unified, flexible IT environment."
+    },
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "Cloud Security",
+     "text": "Identity management, access controls, and threat protection for your cloud workloads."
+    },
+    {
+     "icon": "fas fa-database",
+     "title": "Cloud Backup & Disaster Recovery",
+     "text": "Reliable, automated cloud-based backup and rapid recovery solutions."
+    },
+    {
+     "icon": "fas fa-headset",
+     "title": "Managed Cloud Services",
+     "text": "24/7 monitoring, administration, and support for your cloud environment."
+    }
+   ]
+  },
+  {
+   "type": "benefitCards",
+   "tag": "Benefits",
+   "title": "Why Move to the Cloud?",
+   "lead": "Unlock greater flexibility, efficiency, and innovation with modern cloud solutions.",
+   "items": [
+    {
+     "icon": "fas fa-coins",
+     "title": "Lower IT Costs",
+     "text": "Reduce capital expenses and pay only for what you use."
+    },
+    {
+     "icon": "fas fa-expand-arrows-alt",
+     "title": "Scale on Demand",
+     "text": "Add resources instantly as your business grows."
+    },
+    {
+     "icon": "fas fa-globe",
+     "title": "Anywhere Access",
+     "text": "Empower your team to work from any device, anywhere."
+    },
+    {
+     "icon": "fas fa-shield-alt",
+     "title": "Stronger Security",
+     "text": "Built-in security, identity controls, and continuous monitoring."
+    },
+    {
+     "icon": "fas fa-sync-alt",
+     "title": "Business Continuity",
+     "text": "Built-in resilience and disaster recovery capabilities."
+    },
+    {
+     "icon": "fas fa-rocket",
+     "title": "Faster Innovation",
+     "text": "Deploy new applications and services in days, not months."
+    }
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why True Line for Cloud",
+   "items": [
+    {
+     "image": "/images/0.png",
+     "title": "Certified Cloud Experts",
+     "text": "Hands-on experience with Azure, Microsoft 365, and hybrid environments."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "Migration Specialists",
+     "text": "Proven migration playbooks with minimal downtime and zero data loss."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Security-First Architecture",
+     "text": "Cloud environments built around Zero Trust and best practices."
+    },
+    {
+     "image": "/images/0.png",
+     "title": "Cost Optimization Built In",
+     "text": "We help you right-size resources and avoid surprise bills."
+    },
+    {
+     "image": "/images/1.png",
+     "title": "End-to-End Service",
+     "text": "From strategy and migration to ongoing managed services."
+    },
+    {
+     "image": "/images/2.png",
+     "title": "Local Support, Global Standards",
+     "text": "Dubai-based team delivering international cloud expertise."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/technology-integrated-everyday-life-scaled.jpg",
+   "title": "Take the Next Step to the Cloud.",
+   "text": "Whether you're starting fresh, migrating, or modernizing — True Line makes the cloud simple, secure, and successful.",
+   "buttons": [
+    {
+     "label": "Book a Free Cloud Consultation",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "slug": "cctv",
+ "description": "Your Trusted Managed IT & Cybersecurity Partner in UAE",
+ "blocks": [
+  {
+   "type": "hero",
+   "title": "CCTV & Surveillance Solutions",
+   "subtitle": "Eyes on Every Corner. Around the Clock.",
+   "paragraphs": [
+    "Protect your premises, people, and assets with professional CCTV solutions designed for modern businesses. True Line delivers end-to-end surveillance — from camera selection and installation to remote monitoring and ongoing maintenance."
+   ],
+   "cta": {
+    "label": "Book a Free Site Survey",
+    "href": "tel:+971547658506"
+   },
+   "image": "/images/security-camera-concept-with-copy-space_1194-639124.avif"
+  },
+  {
+   "type": "intro",
+   "title": "Smart Surveillance for Smarter Security",
+   "paragraphs": [
+    "A reliable CCTV system is more than just cameras on a wall — it's a complete surveillance ecosystem that protects your business, deters threats, and gives you peace of mind. Whether you run a single office, a retail outlet, a warehouse, or a multi-location enterprise, the right CCTV setup makes all the difference.",
+    "True Line designs and installs CCTV systems built around your premises, your priorities, and your budget. From high-definition IP cameras and AI-powered analytics to centralized monitoring and remote access, we deliver surveillance solutions that actually deliver — when it matters most."
+   ]
+  },
+  {
+   "type": "cards",
+   "tag": "What We Offer",
+   "title": "Our CCTV Solutions",
+   "items": [
+    {
+     "title": "IP Camera Systems",
+     "text": "High-resolution IP cameras for crystal-clear indoor and outdoor surveillance."
+    },
+    {
+     "title": "Analog & HD-TVI Systems",
+     "text": "Cost-effective analog and high-definition camera solutions for traditional setups."
+    },
+    {
+     "title": "AI-Powered Analytics",
+     "text": "Smart video analytics including motion detection, people counting, and intrusion alerts."
+    },
+    {
+     "title": "Network Video Recorders (NVR)",
+     "text": "Centralized recording and storage with flexible retention options."
+    },
+    {
+     "title": "Remote Monitoring",
+     "text": "View live and recorded footage from anywhere using mobile and desktop apps."
+    },
+    {
+     "title": "Multi-Site Surveillance",
+     "text": "Unified monitoring across branches, warehouses, and remote locations."
+    },
+    {
+     "title": "Integration with Access & Alarm Systems",
+     "text": "Seamless integration with door access, alarms, and intercoms for unified security."
+    },
+    {
+     "title": "Maintenance & AMC",
+     "text": "Ongoing maintenance contracts to keep your CCTV system running flawlessly."
+    }
+   ]
+  },
+  {
+   "type": "imageText",
+   "image": "/images/closed-circuit-camera-multiangle-cctv-system-against-background-modern-warehouse-complex-concept-protection-goods_1081806-2539.jpg",
+   "title": "CCTV Solutions for Every Industry",
+   "paragraphs": [
+    "We design and deploy CCTV systems for offices, warehouses, retail stores, schools, residential buildings, factories, and construction sites — tailored to the unique requirements of each environment."
+   ]
+  },
+  {
+   "type": "iconList",
+   "tag": "Why Choose Us",
+   "title": "Why True Line for CCTV",
+   "items": [
+    {
+     "image": "/images/team_9539662.png",
+     "title": "Leading Brand Partners",
+     "text": "Hikvision, Dahua, Axis, Bosch, and other trusted CCTV brands."
+    },
+    {
+     "image": "/images/customer-service_3631126.png",
+     "title": "End-to-End Service",
+     "text": "Site survey, design, installation, configuration, and support — all from one team."
+    },
+    {
+     "image": "/images/check_12515900.png",
+     "title": "UAE Compliance Ready",
+     "text": "Installations aligned with SIRA, Dubai Police, and local regulatory requirements."
+    },
+    {
+     "image": "/images/competence_2640621.png",
+     "title": "Skilled Technicians",
+     "text": "Certified engineers with hands-on experience across all major CCTV platforms."
+    },
+    {
+     "image": "/images/passkey_15546231.png",
+     "title": "Remote Access Built In",
+     "text": "Watch your premises from anywhere, on any device."
+    },
+    {
+     "image": "/images/message_6327768.png",
+     "title": "Ongoing Support",
+     "text": "Flexible AMC plans to keep your surveillance system always-on."
+    }
+   ]
+  },
+  {
+   "type": "cta",
+   "image": "/images/cctv-security-technology-with-lock-icon-digital-remix-1-scaled.jpg",
+   "title": "See Everything. Miss Nothing.",
+   "text": "Get expert CCTV design, installation, and support — built around your premises and your priorities.",
+   "buttons": [
+    {
+     "label": "Request a Free Site Survey",
+     "href": "tel:+971547658506"
+    }
+   ]
+  }
+ ]
+}
